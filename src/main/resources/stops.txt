@@ -2,10 +2,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 002133,"Örs vezér tere M+H, déli tárolótér",47.500366,19.135700,002133,,,,
 002138,Kőbánya alsó vasútállomás,47.483139,19.127891,002138,,,,2
 003002,Puskás Ferenc Stadion M,47.500368,19.103406,003002,,,,
-003105,Bécsi út / Vörösvári út,47.548817,19.029722,003105,,,,2
-003106,"Örs vezér tere M+H, északi tároló",47.505160,19.136637,003106,,,,
 003118,"Óbuda, Bogdáni út",47.551471,19.041971,003118,,,,2
-004521,Puskás Ferenc Stadion,47.500213,19.104767,F01324,,merged,CS004521,1
 004716,"ÉD metró járműtelep,porta",47.469651,19.129090,004716,,,,2
 004948,Metró ÉD járműtelep (kapu),47.465239,19.142612,004948,,,,
 004952,Metró KNY járműtelep (kapu),47.502234,19.132179,004952,,,,
@@ -26,9 +23,9 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 007885,Dorottya utca (Vörösmarty tér M),47.497476,19.049623,007885,,,,1
 007887,Mester utca / Ferenc körút,47.482310,19.068795,007887,,,,1
 007888,Mester utca / Ferenc körút,47.482562,19.068477,007888,,,,1
-007889,Mester utca / Ferenc körút,47.481293,19.069551,007889,,,,2
 007890,Mester utca / Ferenc körút,47.481671,19.068782,007890,,,,2
 007897,Kelenföld vasútállomás M,47.464581,19.022964,007897,,,,1
+007898,Kelenföld vasútállomás M,47.464662,19.023017,007898,,,,1
 007900,Maros utcai rendelőintézet,47.503724,19.022401,007900,,,,1
 007902,Újpest-városkapu M,47.558551,19.078245,007902,,,,1
 007913,526. sor,47.479274,19.211295,007913,,,,2
@@ -39,9 +36,10 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 007928,Ferihegy vasútállomás,47.437667,19.223377,007928,,,,1
 007930,Savoyai Jenő tér (Törley tér),47.430333,19.036354,007930,,,,1
 007931,Savoyai Jenő tér (Törley tér),47.430369,19.036792,007931,,,,1
+007942,"Pilisborosjenő, autóbusz-forduló",47.609102,18.989684,007942,,,,1
 007949,Kocsis Sándor út,47.574343,19.013009,007949,,,,1
 007950,Keleti pályaudvar M,47.501104,19.082712,007950,,,,1
-007967,Kelenföld vasútállomás M,47.465732,19.021875,007967,,,,1
+007967,Kelenföld vasútállomás M,47.465755,19.021871,007967,,,,1
 007968,Mogyoród útja,47.570602,19.128267,007968,,,,1
 007972,Hűvösvölgy,47.543009,18.964481,007972,,,,1
 007974,Hűvösvölgy,47.542605,18.964773,007974,,,,1
@@ -59,7 +57,6 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 008003,Budagyöngye,47.515894,18.999506,008003,,,,2
 008005,Móricz Zsigmond körtér M,47.477059,19.047540,008005,,,,1
 008018,"Örs vezér tere M+H, új tárolótér",47.500933,19.135714,008018,,,,2
-008020,Örs vezér tere M+H,47.500932,19.136306,008020,,,,1
 008021,Örs vezér tere M+H,47.501940,19.136228,008021,,,,1
 008022,Örs vezér tere M+H,47.501517,19.136333,008022,,,,1
 008023,Örs vezér tere M+H,47.501472,19.136134,008023,,,,1
@@ -102,7 +99,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 008094,Dél-pesti autóbuszgarázs,47.426160,19.160940,008094,,,,1
 008095,Nagykőrösi út,47.425255,19.157029,008095,,,,2
 008096,Nagykőrösi út,47.425183,19.157506,008096,,,,2
-008098,Szabina út,47.436409,19.013419,008098,,,,1
+008098,Szabina út,47.436429,19.013415,008098,,,,1
 008099,Pék utca,47.442142,19.018436,008099,,,,1
 008100,Pék utca,47.442188,19.018635,008100,,,,2
 008101,Rózsavölgy felső,47.441163,19.022295,008101,,,,1
@@ -133,14 +130,15 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 008138,Lehel tér,47.517410,19.060192,008138,1,,,2
 008139,Dózsa György út,47.524653,19.063321,008139,1,,,2
 008141,Göncz Árpád városközpont,47.532719,19.066755,008141,1,,,2
-008146,Vajda Péter utca,47.481389,19.103174,008146,,,,1
-008147,Vajda Péter utca,47.481770,19.103619,008147,,,,1
-008148,Kőbányai út / Könyves Kálmán körút,47.485742,19.107077,008148,,,,1
-008149,Kőbányai út / Könyves Kálmán körút,47.486236,19.107515,008149,,,,1
+008146,Vajda Péter utca,47.481378,19.103199,008146,,,,1
+008147,Vajda Péter utca,47.481801,19.103611,008147,,,,1
+008148,Kőbányai út / Könyves Kálmán körút,47.485766,19.107079,008148,,,,1
+008149,Kőbányai út / Könyves Kálmán körút,47.486260,19.107530,008149,,,,1
 008150,Zsil utca,47.482940,19.062984,008150,,,,2
-008152,Mester utca / Könyves Kálmán körút,47.469596,19.083728,008152,,,,1
-008153,Mester utca / Könyves Kálmán körút,47.469723,19.084482,008153,,,,1
-008155,Közvágóhíd H,47.468737,19.072756,008155,,,,1
+008152,Mester utca / Könyves Kálmán körút,47.469594,19.083740,008152,,,,1
+008153,Mester utca / Könyves Kálmán körút,47.469746,19.084483,008153,,,,1
+008154,Boráros tér H (Közraktár utca),47.481222,19.065345,008154,,,,1
+008155,Közvágóhíd H,47.468760,19.072769,008155,,,,1
 008156,Új köztemető,47.473586,19.178326,008156,,,,1
 008159,Forgách utca,47.539383,19.069597,008159,1,,,2
 008162,Gyöngyösi utca,47.548691,19.073233,008162,1,,,2
@@ -153,10 +151,10 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 008175,Népliget M,47.475806,19.100180,008175,,,,2
 008181,Cinkotai autóbuszgarázs,47.498562,19.237779,008181,,,,2
 008186,Újpest-központ,47.560429,19.089916,008186,1,,,2
-008206,Mexikói út M,47.519261,19.091048,008206,,,,1
-008209,Nagy Lajos király útja / Czobor utca,47.522170,19.102815,008209,,,,1
+008206,Mexikói út M,47.519287,19.091049,008206,,,,1
+008209,Nagy Lajos király útja / Czobor utca,47.522197,19.102817,008209,,,,1
 008218,Széchenyi István tér,47.498915,19.047062,008218,,,,2
-008222,Örs vezér tere M+H,47.503684,19.136443,008222,,,,1
+008222,Örs vezér tere M+H,47.503737,19.136447,008222,,,,1
 008238,Széchenyi István tér,47.500543,19.046690,008238,,,,1
 008239,Müpa - Nemzeti Színház H,47.471165,19.073129,008239,,,,1
 008240,Müpa - Nemzeti Színház H,47.471354,19.073301,008240,,,,1
@@ -164,11 +162,10 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 008242,Teleki Blanka utca,47.523865,19.093761,008242,,,,1
 008245,Kolozsvár utcai piac,47.536842,19.114916,008245,,,,1
 008246,Rákospalotai köztemető,47.551236,19.136137,008246,,,,1
-008256,Déli pályaudvar M,47.500397,19.025349,008256,,,,2
 008260,Nagybányai út,47.528503,18.996288,008260,,,,1
 008261,Nagybányai út,47.528368,18.996467,008261,,,,1
-008262,Hidegkuti Nándor Stadion,47.490690,19.108910,008262,,,,1
-008265,Közvágóhíd H,47.468737,19.073486,008265,,,,1
+008262,Hidegkuti Nándor Stadion,47.490703,19.108915,008262,,,,1
+008265,Közvágóhíd H,47.468760,19.073512,008265,,,,1
 008267,Szentlőrinci út,47.424625,19.157703,008267,,,,1
 008269,Delej utca,47.484694,19.096209,008269,,,,1
 008270,Delej utca,47.484460,19.096407,008270,,,,1
@@ -178,10 +175,9 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 008280,Infopark (Pázmány Péter sétány),47.469242,19.064333,008280,,,,1
 008283,Óceán-árok utca,47.589986,19.100345,008283,,,,1
 008284,Óceán-árok utca,47.590345,19.101781,008284,,,,1
-008286,Népliget M,47.476294,19.099288,008286,,,,1
+008286,Népliget M,47.476325,19.099294,008286,,,,1
 008287,Népliget M,47.476140,19.098735,008287,,,,1
 008289,Szilágyi utca,47.570877,19.111330,008289,,,,1
-008290,Puskás Ferenc Stadion M,47.501769,19.107585,008290,,,,1
 008317,Bartók Béla utca,47.433275,18.919546,008317,,,,1
 008318,Raktárváros,47.441443,18.938007,008318,,,,1
 008319,Raktárváros,47.441434,18.938378,008319,,,,1
@@ -208,11 +204,11 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 008365,Bécsi út / Vörösvári út,47.548489,19.028994,F00568,,merged,MERGED_F00568,1
 008368,Szigetmajor,47.293738,18.964665,008368,1,,,2
 008370,Egyetemi Tangazdaság,47.258643,18.949516,008370,1,,,2
-008377,Nagykőrösi út / Határ út,47.456450,19.114660,008377,,,,2
+008377,Nagykőrösi út / Határ út,47.456438,19.114897,008377,,,,2
 008379,Kőbánya alsó vasútállomás,47.483886,19.127216,008379,,,,2
 008381,Kőbánya alsó vasútállomás,47.484011,19.127574,008381,,,,2
-008382,Örs vezér tere M+H,47.502448,19.136843,008382,,,,1
-008383,Örs vezér tere M+H,47.502623,19.136654,008383,,,,1
+008382,Örs vezér tere M+H,47.502477,19.136883,008382,,,,1
+008383,Örs vezér tere M+H,47.502639,19.136658,008383,,,,1
 008385,"Rákospalota, MÁV-telep",47.541308,19.121443,008385,,,,1
 008399,Pestszentimre vasútállomás,47.404222,19.186489,008399,,,,1
 008400,"Dunakeszi, Auchan áruház",47.608963,19.117347,008400,,,,2
@@ -242,26 +238,28 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 008439,Egyetem,47.652067,19.071331,008439,,,,1
 008440,Gubacsi út / Határ út,47.443626,19.096848,008440,,,,1
 008447,Dióskert,47.425630,18.911984,008447,,,,2
-008455,Jászai Mari tér,47.512811,19.047938,008455,,,,2
+008455,Jászai Mari tér,47.512837,19.047936,008455,,,,2
 008458,Tisza István tér,47.517230,19.107350,008458,,,,1
 008459,Uzsoki Utcai Kórház,47.519858,19.103689,008459,,,,1
 008460,Uzsoki Utcai Kórház,47.519615,19.103476,008460,,,,1
 008461,Erzsébet királyné útja / Róna utca,47.521586,19.101301,008461,,,,1
 008462,Bretzfeld utca,47.460536,18.945898,008462,,,,1
 008469,Gubacsi út / Határ út,47.444418,19.096583,008469,,,,2
+008470,Gubacsi út / Határ út,47.444013,19.097219,008470,,,,2
 008471,Dél-pesti autóbuszgarázs,47.426556,19.160782,008471,,,,1
 008472,Dél-pesti autóbuszgarázs,47.426744,19.161140,008472,,,,1
 008479,Homokbánya utca,47.399559,18.941035,008479,,,,2
 008480,Petőfi Sándor utca,47.402470,18.937784,008480,,,,1
 008481,Soroksár felső H,47.409980,19.111405,008481,,,,1
 008486,Csonka János tér,47.470070,19.044795,008486,,,,1
-008490,Határ út M,47.464567,19.126152,008490,,merged,MERGED_008490,1
+008490,Határ út M,47.464567,19.126152,008490,,,,1
 008491,Jászberényi út,47.485496,19.192619,008491,,,,2
 008498,Aszódi utca,47.463484,19.100991,008498,,,,1
 008499,Közterületfenntartó Zrt.,47.467861,19.106659,008499,,,,1
 008500,Ecseri út M,47.470487,19.108771,008500,,,,2
 008501,Ferencvárosi rendelőintézet,47.476984,19.075559,008501,,,,1
 008519,Tímár utca H,47.533299,19.043582,008519,,,,1
+008520,Szentlélek tér H,47.539361,19.047061,008520,,,,2
 008521,Serfőző utca,47.538309,19.046968,008521,,,,1
 008535,Cinkotai autóbuszgarázs,47.498194,19.237472,008535,,,,1
 008544,Szépvölgyi út H,47.527615,19.040037,008544,,,,1
@@ -290,6 +288,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 008598,Baross utca,47.460313,18.958511,008598,,,,1
 008605,Kolosy tér,47.527543,19.036916,008605,,,,1
 008617,Pillangó utca,47.501297,19.119883,008617,1,,,2
+008618,Puskás Ferenc Stadion,47.500389,19.107113,008618,1,,,2
 008619,Keleti pályaudvar,47.499798,19.082670,008619,1,,,2
 008620,Blaha Lujza tér,47.496986,19.070333,008620,1,,,2
 008621,Astoria,47.494331,19.060097,008621,1,,,2
@@ -314,14 +313,13 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 008685,Albertfalva kitérő,47.452720,19.038922,008685,,,,1
 008690,Budaörs vasútállomás,47.448184,18.964863,008690,1,,,2
 008691,Angeli utca / Nagytétényi út,47.390942,18.981735,008691,1,,,2
-008692,Felsőcsatári köz,47.458756,19.177096,008692,,,,1
+008692,Felsőcsatári köz,47.458778,19.177103,008692,,,,1
 008694,Köztelek utca,47.486933,19.067178,008694,,,,2
-008696,Mester utca / Ferenc körút,47.481051,19.069803,008696,,,,2
 008697,Újpest-központ M,47.560724,19.090125,008697,,,,1
 008702,Ferencvárosi rendelőintézet,47.477155,19.075785,008702,,,,2
 008708,Vízművek lakótelep,47.597742,19.091577,008708,,,,2
 008724,Albertirsai út,47.500874,19.116122,008724,,,,2
-008725,Puskás Ferenc Stadion M,47.499864,19.104836,008725,,,,1
+008725,Puskás Ferenc Stadion M,47.499898,19.104838,008725,,,,1
 008731,Budagyöngye,47.516074,18.998922,008731,,,,2
 008736,Dániel út,47.512852,18.995009,008736,,,,2
 008737,Dániel út,47.512834,18.994743,008737,,,,1
@@ -332,7 +330,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 008772,Pestszentlőrinc vasútállomás,47.454622,19.181767,008772,,,,1
 008775,Ilonatelep H,47.525775,19.228634,008775,,,,1
 008782,Blaha Lujza tér M,47.496844,19.069066,008782,,,,1
-008785,Puskás Ferenc Stadion M,47.499934,19.105183,008785,,,,1
+008785,Puskás Ferenc Stadion M,47.499925,19.105183,008785,,,,1
 008788,Kőérberek,47.445299,18.999585,008788,,,,2
 008789,Kőérberek,47.445218,19.000036,008789,,,,2
 008793,Regényes utca,47.429395,19.020648,008793,,,,1
@@ -367,7 +365,6 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 008911,Homoktövis iskola,47.597226,19.117132,008911,,,,1
 008912,Hidegkuti Nándor Stadion,47.490255,19.110147,008912,,,,1
 008914,Vágóhíd utca,47.473502,19.079577,008914,,,,1
-008915,Jászberényi út / Maglódi út,47.490345,19.148417,008915,,,,1
 008916,Kőbányai garázs,47.490630,19.114447,008916,,,,2
 008917,Kőbányai garázs,47.490667,19.113836,008917,,,,2
 008918,"Budatétény, benzinkút",47.430100,19.003628,008918,,,,2
@@ -389,11 +386,11 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 008949,Pestszentimre vasútáll. (Nagykőrösi út),47.403412,19.186620,008949,,,,1
 008950,Pestszentimre vasútáll. (Nagykőrösi út),47.404303,19.185682,008950,,,,1
 008951,Béke tér,47.430006,19.215624,008951,,,,2
-008952,Terv utca,47.408000,19.001541,008952,,,,1
+008952,Terv utca,47.408019,19.001535,008952,,,,1
 008953,Csillag utca,47.408474,19.119154,008953,,,,1
 008954,Csillag utca,47.409562,19.118997,008954,,,,1
-008955,Gombosszeg köz,47.413107,19.118352,008955,,,,1
-008956,Gombosszeg köz,47.413574,19.118578,008956,,,,2
+008955,Gombosszeg köz,47.413126,19.118355,008955,,,,1
+008956,Gombosszeg köz,47.413593,19.118581,008956,,,,2
 008957,Előd utca,47.418567,19.117379,008957,,,,2
 008958,Alsó határút,47.416543,19.116568,008958,,,,2
 008959,Templom utca 6.,47.408837,19.113563,008959,,,,1
@@ -432,11 +429,9 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 009026,Zichy Jenő utca,47.505246,19.057588,009026,,,,1
 009031,"Margit híd, budai hídfő H",47.514815,19.035801,009031,,,,1
 009039,Csanády utca (Lehel tér M),47.515850,19.058891,009039,,,,1
-009041,Haller utca / Soroksári út,47.475726,19.069363,009041,,,,1
+009041,Haller utca / Soroksári út,47.475740,19.069389,009041,,,,1
 009042,Haller utca / Soroksári út,47.475447,19.069562,009042,,,,1
 009047,Homoktövis utca / Megyeri út,47.594692,19.113273,009047,,,,1
-009065,"Solymár, Szarvas",47.596341,18.973637,009065,,,,2
-009066,"Solymár, Szarvas",47.596135,18.974741,009066,,,,2
 009067,"Solymár, Auchan áruház",47.597798,18.963376,009067,,,,2
 009074,Használtcikk piac,47.435510,19.145159,009074,,,,1
 009085,Budaörs vasútállomás,47.448166,18.964870,009085,,,008690,1
@@ -462,8 +457,8 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 009147,Vörösmarty utca,47.419869,19.120349,009147,,,,1
 009148,Szusza Ferenc Stadion,47.575692,19.083757,009148,,,,1
 009153,Óbudai rendelőintézet,47.545359,19.033751,009153,,,,1
-009154,Atlétikai stadion,47.572575,19.114429,009154,,,,2
-009155,Atlétikai stadion,47.572180,19.114150,009155,,,,2
+009154,Atlétikai stadion,47.572606,19.114432,009154,,,,2
+009155,Atlétikai stadion,47.572210,19.114152,009155,,,,2
 009160,Keleti pályaudvar M,47.499449,19.083401,009160,,,,1
 009161,Keleti pályaudvar M,47.499431,19.084012,009161,,,,1
 009162,Keleti pályaudvar M,47.499926,19.083216,009162,,,,1
@@ -473,26 +468,25 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 009171,"Pomáz, Dózsa György utca",47.645554,19.027001,009171,,,,1
 009172,Piski utca / Bártfai utca,47.501188,19.258520,009172,,,,2
 009174,Széll Kálmán tér M,47.507673,19.024894,009174,,,,1
-009178,Bajza utca,47.514897,19.068025,009178,,,,2
 009179,"Petőfi híd, budai hídfő",47.476798,19.058923,009179,,,,1
-009192,Kacsóh Pongrác utca,47.396467,19.208697,009192,,,,2
-009193,Kacsóh Pongrác utca,47.396853,19.208738,009193,,,,1
-009194,Széchenyi utca / Ady Endre utca,47.389932,19.217935,009194,,,,1
+009192,Kacsóh Pongrác utca,47.396484,19.208706,009192,,,,2
+009193,Kacsóh Pongrác utca,47.396871,19.208747,009193,,,,1
+009194,Széchenyi utca / Ady Endre utca,47.389950,19.217945,009194,,,,1
 009195,Széchenyi utca / Ady Endre utca,47.390177,19.217708,009195,,,,1
-009196,Széchenyi utca / Vecsési út,47.381846,19.230727,009196,,,,1
-009197,Bocskai István utca / Széchenyi utca,47.383397,19.228295,009197,,,,1
-009198,Somogyi Béla utca / Széchenyi utca,47.386832,19.222956,009198,,,,1
-009199,Mátyás király utca,47.394710,19.210533,009199,,,,1
-009200,Mátyás király utca,47.394883,19.210398,009200,,,,1
-009201,Tulipán utca,47.392574,19.213824,009201,,,,1
-009202,Tulipán utca,47.392177,19.214604,009202,,,,1
+009196,Széchenyi utca / Vecsési út,47.381844,19.230726,009196,,,,1
+009197,Bocskai István utca / Széchenyi utca,47.383395,19.228294,009197,,,,1
+009198,Somogyi Béla utca / Széchenyi utca,47.386830,19.222955,009198,,,,1
+009199,Mátyás király utca,47.394728,19.210542,009199,,,,1
+009200,Mátyás király utca,47.394881,19.210397,009200,,,,1
+009201,Tulipán utca,47.392591,19.213834,009201,,,,1
+009202,Tulipán utca,47.392194,19.214614,009202,,,,1
 009203,"Gyál, Deák Ferenc utca",47.385265,19.235533,009203,,,,1
 009204,Árpád utca,47.388079,19.231106,009204,,,,1
 009205,Dobó Katica utca / Deák Ferenc utca,47.389747,19.228502,009205,,,,1
-009206,Táncsics Mihály utca,47.392099,19.224843,009206,,,,1
-009207,Kossuth Lajos utca,47.391718,19.221172,009207,,,,1
+009206,Táncsics Mihály utca,47.392116,19.224853,009206,,,,1
+009207,Kossuth Lajos utca,47.391717,19.221196,009207,,,,1
 009208,"Pestszentlőrinc, Szarvas csárda tér",47.441307,19.185114,009208,,,,1
-009220,Móricz Zsigmond körtér M,47.477499,19.048349,009220,,,,1
+009220,Móricz Zsigmond körtér M,47.477496,19.048347,009220,,,,1
 009225,Noszlopy utca,47.471898,19.148435,009225,,,,1
 009230,Deák Ferenc tér M,47.497638,19.053021,009230,,,,1
 009234,Pestszentimre vasútállomás (Nemes utca),47.404518,19.187166,009234,,,,1
@@ -512,7 +506,6 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 009312,MNB,47.376882,19.124303,009312,,,,2
 009314,"BILK, DF épület",47.375229,19.120911,009314,,,,2
 009315,MNB,47.376675,19.124382,009315,,,,2
-009318,Örs vezér tere M+H,47.503252,19.135186,009318,,,,2
 009321,Keleti pályaudvar M,47.499926,19.084198,009321,,,,1
 009322,Örs vezér tere M+H (Kerepesi út),47.503260,19.137956,009322,,,,1
 009337,Orbánhegyi dűlő,47.386335,19.110172,009337,,,,1
@@ -528,7 +521,6 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 009358,Millenniumtelep H,47.379529,19.104152,009358,,,,2
 009359,Boráros tér H,47.479729,19.066486,009359,,,,1
 009365,Zsil utca,47.482716,19.062997,009365,,,,1
-009366,Boráros tér H,47.480664,19.065518,009366,,,,2
 009369,"Csepel, Horgásztanya",47.388344,19.103486,009369,,,,1
 009373,Hunyadvár utca / Jókai Mór utca,47.508153,19.192136,009373,,,,2
 009375,Szilas-patak,47.529297,19.185461,009375,,,,1
@@ -538,7 +530,6 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 009381,Rózsa utca,47.515819,19.155767,009381,,,,1
 009382,Jávorfa utca,47.525996,19.177844,009382,,,,1
 009383,János utca,47.523555,19.172340,009383,,,,1
-009410,Béke tér (Királyhágó út),47.428757,19.217460,009410,,,,2
 009412,Karolina út,47.473505,19.034394,009412,,,,1
 009413,Ezredes utca,47.510038,19.021760,009413,,,,1
 009415,Sárfű utca,47.550084,19.138128,009415,,,,1
@@ -611,7 +602,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 009510,Gábor Áron utca / Pasaréti út,47.516184,19.004033,009510,,,,1
 009511,Gábor Áron utca / Pasaréti út,47.516355,19.003967,009511,,,,1
 009512,Endrődi Sándor utca,47.521143,19.011996,009512,,,,1
-009513,Bimbó út / Gábor Áron utca,47.519325,19.008996,009513,,,,1
+009513,Bimbó út / Gábor Áron utca,47.519342,19.008978,009513,,,,1
 009514,Bimbó út / Gábor Áron utca,47.519964,19.010576,009514,,,,1
 009515,Rákospalota-Újpest vasútállomás,47.566389,19.111644,009515,,,,1
 009516,Rákospalota-Újpest vasútállomás,47.566191,19.111737,009516,,,,1
@@ -623,7 +614,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 009532,Puskás Ferenc Stadion M,47.500079,19.106565,009532,,,,2
 009534,XIII. utca / Dózsa György út,47.411163,18.993654,009534,,,,2
 009536,"Káposztásmegyer, Mogyoródi-patak",47.598690,19.121323,009536,,,,2
-009537,Március 15. tér,47.491540,19.051322,009537,,,,1
+009537,Március 15. tér,47.491564,19.051333,009537,,,,1
 009538,Irány utca,47.540469,19.109767,009538,,,,1
 009539,Boglár utca,47.594701,19.060994,009539,,,,1
 009540,Szilágyi Erzsébet fasor,47.515203,19.002149,009540,,,,1
@@ -658,18 +649,19 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 009586,Baross utca,47.436340,19.098763,009586,,,,1
 009587,Gogol utca,47.520447,19.056980,009587,,,,1
 009588,Kuruclesi út,47.518001,18.985232,009588,,,,1
-009592,Kőbánya-Kispest P+R,47.464210,19.145927,009592,,,,1
+009592,Kőbánya-Kispest M,47.464152,19.146197,009592,,,,1
 009611,Hidegkuti Nándor Stadion,47.490210,19.109593,009611,,,,2
 009625,Szigetcsép utca,47.464407,19.312701,009625,,,,1
 009629,Batthyány tér M+H,47.505588,19.039284,009629,,,,1
 009630,"Budakalász, Auchan áruház",47.611510,19.062341,009630,,,008822,1
 009631,Gergely utca 80.,47.474051,19.144354,009631,,,,1
-009632,Nagykőrösi út / Határ út,47.456381,19.114232,009632,,,,2
+009632,Nagykőrösi út / Határ út,47.456394,19.114274,009632,,,,2
 009634,Cinkotai autóbuszgarázs (kapu),47.498634,19.237646,009634,,,,
 009636,Kelenföldi autóbuszgarázs (kapu),47.473264,19.029397,009636,,,,
 009637,Óbudai autóbuszgarázs (Pomázi kapu),47.568220,19.027770,009637,,,,
-009638,Kőbányai garázs (Salgótarjáni kapu),47.491008,19.114239,009638,,,,
-009645,Zugló kocsiszín (kapu),47.518909,19.112583,009645,,,,
+009638,Kőbányai garázs (Salgótarjáni kapu),47.490979,19.114277,009638,,,,
+009639,Kelenföld kocsiszín (Csóka kapu),47.470139,19.027137,009639,,,,
+009644,Hungária kocsiszín (kapu),47.491373,19.104840,009644,,,,
 009647,Baross kocsiszín (Magdolna kapu),47.491893,19.087286,009647,,,,
 009652,Széchenyi út,47.545721,19.112403,009652,,,,1
 009659,Mélyfúró utca,47.577512,19.129774,009659,,,,1
@@ -689,7 +681,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 009706,XVIII. utca,47.491598,19.259995,009706,,,,1
 009707,Aranykút utca,47.493758,19.277998,009707,,,,1
 009708,Rákoscsaba vasútállomás,47.491547,19.281890,009708,,,,1
-009709,Újbuda-központ M,47.474406,19.045497,009709,,,,1
+009709,"Budapest, Újbuda-központ",47.474406,19.045497,009709,,,,1
 009715,Zodony utca,47.430331,19.099898,009715,,,,2
 009716,Pesterzsébet vasútállomás,47.433454,19.095738,009716,,,,2
 009717,Zamárdi utca,47.434256,19.093472,009717,,,,1
@@ -704,10 +696,9 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 009753,Blaha Lujza tér M (Népszínház utca),47.495999,19.071283,009753,,,,2
 009763,Zsófialiget H,47.548044,19.263894,009763,,,,2
 009764,Zsófialiget H,47.547898,19.263369,009764,,,,2
-009773,Kada utca / Maglódi út,47.483078,19.158115,009773,,,,2
 009774,Jászberényi út / Maglódi út,47.489886,19.148828,009774,,,,1
+011302,Farkas-erdő (Állatsziget),47.586742,19.103401,011302,,,,1
 011313,Szent László utca,47.405823,18.999264,011313,,,,1
-011314,Béke tér,47.529556,19.080514,011314,,,,1
 011316,Atlétikai stadion,47.572468,19.113937,011316,,,,2
 011317,Atlétikai stadion,47.572108,19.113950,011317,,,,2
 011319,Móricz Zsigmond körtér M,47.477527,19.048628,011319,,,,1
@@ -716,6 +707,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 011322,"Óbuda, Bogdáni út",47.549830,19.041189,011322,,,,1
 011325,Halászbástya (Schulek Frigyes lépcső),47.502240,19.035339,011325,,,,2
 011327,Budaörsi Ipari és Technológiai Park,47.463310,18.894407,011327,,,,2
+011439,Ferencváros kocsiszín (kapu),47.470692,19.091421,011439,,,,
 011495,Kék Golyó utca,47.497895,19.019895,011495,,,,1
 011577,"Soroksár, központi raktárak",47.378703,19.130043,011577,,,,2
 011582,Verseny utca,47.501778,19.088408,011582,,,,2
@@ -723,14 +715,15 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 011722,"Rákoskeresztúr, városközpont",47.479663,19.254959,011722,,,,1
 011723,"Rákoskeresztúr, városközpont",47.479536,19.255542,011723,,,,1
 011724,"Rákoskeresztúr, városközpont",47.479373,19.256098,011724,,,,1
-011725,"Rákoskeresztúr, városközpont",47.479815,19.255331,011725,,,,1
+011725,"Rákoskeresztúr, városközpont",47.479802,19.255489,011725,,,,1
 011726,"Rákoskeresztúr, városközpont",47.479942,19.254761,011726,,,,1
+011727,Rákospatak utca / Csömöri út,47.524636,19.117028,011727,,,,1
 011732,Deák Ferenc tér M,47.499212,19.053658,011732,,,,1
+011754,Rákospatak utca / Csömöri út,47.524275,19.117811,011754,,,,1
 011762,Újpest-városkapu M,47.559063,19.078803,011762,,,,1
 011765,Boráros tér H,47.479285,19.067812,011765,,,,2
 011768,"Rákoscsaba-Újtelep, Tóalmás utca",47.499272,19.286768,011768,,,,2
 011773,Keresztúri út,47.484637,19.227764,011773,,,,1
-016532,Pillangó utca M,47.501627,19.120154,016532,,,,2
 016725,Rózsaliget,47.466591,19.158440,016725,,,,2
 016727,Újbuda-központ M,47.474649,19.046771,016727,,,,1
 016729,Naphegy tér,47.493472,19.032796,016729,,,,1
@@ -828,7 +821,6 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 044383,"Budakeszi, Tiefenweg utca",47.503557,18.921167,044383,,,,1
 044388,"Soroksár, Auchan áruház",47.419788,19.155599,044388,,,,1
 044511,"Solymár, PEMÜ",47.597409,18.928240,044511,,,,2
-044555,Deák Ferenc tér M,47.498537,19.054627,044555,,,,
 044557,"Újpest, Árpád út hajóállomás",47.562796,19.078314,044557,,,,1
 044601,"Solymár, Auchan áruház",47.598851,18.962078,044601,,,,1
 044602,"Solymár, temető",47.594948,18.940930,044602,,,,1
@@ -837,10 +829,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 044638,Görögkatolikus templom,47.424034,19.077997,044638,,,,1
 045755,Maros utca,47.418292,19.138131,045755,,,,1
 045776,Szenes Iván tér,47.479730,19.095859,045776,,,,2
-045883,"Fót, Auchan áruház",47.580948,19.161548,045883,,,,1
 047670,Budakeszi temető,47.514029,18.923053,047670,,,,2
-047671,Új köztemető,47.472614,19.177828,047671,,,,2
-047712,Károlyi Sándor út,47.585272,19.132112,047712,,,,2
 047806,Savoya Park,47.436081,19.041549,047806,,,,1
 047875,Orczy tér (Baross kocsiszín),47.489544,19.090388,047875,,,,2
 047985,Szőlőskert utca,47.502140,18.916538,047985,,,,2
@@ -852,7 +841,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 048304,Liliom utca,47.431485,18.927729,048304,,,,2
 048305,Liliom utca,47.430955,18.928340,048305,,,,2
 048471,Pasaréti tér,47.523609,18.994082,048471,,,,1
-048505,Szent István Bazilika,47.500687,19.054694,048505,,,,1
+048505,Szent István Bazilika,47.500141,19.054665,048505,,,,1
 048506,Szent István Bazilika,47.500273,19.055025,048506,,,,1
 048519,"Rákospalota, Kossuth utca",47.568485,19.125534,048519,,,,1
 048536,Lehel tér M,47.517759,19.060445,048536,,,,2
@@ -862,10 +851,10 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 049172,Gyáli-patak,47.394741,19.116818,049172,,,,1
 049174,"Soroksár, Kertvárosi körút",47.413022,19.136121,049174,,,,1
 049180,Dagály fürdő,47.539082,19.061698,049180,,,,1
-049182,Úszódaru utca,47.546042,19.069019,049182,,,,2
-049183,Úszódaru utca,47.545655,19.068673,049183,,,,1
+049181,Úszódaru utca,47.546205,19.069749,049181,,,,2
 049186,Kalotaszeg utca,47.459241,19.040896,049186,,,,1
 049597,BudaPart,47.468442,19.057157,049597,,,,1
+049685,Békásmegyer H,47.598117,19.054253,049685,,,,2
 049784,Clark Ádám tér,47.498870,19.040187,049784,,,,1
 049785,Clark Ádám tér,47.499328,19.040161,049785,,,,1
 049892,Május 9. park,47.550480,19.050845,049892,,,,2
@@ -878,7 +867,6 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 049900,Kaszásdűlő H,47.555582,19.044907,049900,,,,2
 049903,Mansfeld Péter park,47.517064,19.033228,049903,,,,1
 049914,Sörgyár,47.491859,19.144405,049914,,,,2
-049962,Mikó utca,47.498400,19.028455,049962,,,,1
 050003,Cinkota H,47.519950,19.220289,050003,,,,1
 050129,Csapó utca,47.440861,19.161363,050129,,,,2
 050173,Lincoln út,47.415985,19.243460,050173,,,,1
@@ -941,10 +929,9 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 056379,Metró DBR járműtelep (kapu),47.461404,19.025005,056379,,,,
 056427,Deák Ferenc tér M,47.497853,19.054189,056427,,,,1
 061136,Rákosszeg park,47.534267,19.103451,061136,,,,2
-061144,"Rákospalota, Kossuth utca",47.567640,19.125307,061144,,,,2
 061188,Kelenföld vasútállomás M,47.464005,19.018706,061188,,,,1
 061222,Kelenföld vasútállomás M,47.464364,19.018786,061222,,,,1
-061223,Neszmélyi út,47.460801,19.013881,061223,,,,1
+061223,Neszmélyi út,47.460812,19.013887,061223,,,,1
 061224,Zelk Zoltán út / Neszmélyi út,47.458590,19.018802,061224,,,,1
 061225,Hajtány sor,47.455362,19.024440,061225,,,,1
 061226,Zelk Zoltán út (Menyecske utca),47.461423,19.018933,061226,,,,2
@@ -999,7 +986,6 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 062946,Attila utca,47.581300,19.049413,062946,,,,1
 062948,Mátyás király út,47.586373,19.050024,062948,,,,1
 062950,Bercsényi utca,47.585689,19.051181,062950,,,,1
-062981,"Hungexpo, Kongresszusi Központ",47.492122,19.125642,062981,,,,2
 063399,Hulladékhasznosító Mű,47.584113,19.131087,063399,,,,2
 063526,Lehel tér M (kelet),47.516534,19.060882,063526,,,,
 064067,Massányi úti lakópark,47.359933,19.028746,064067,,,,1
@@ -1048,16 +1034,16 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 064318,Temető utca,47.355356,19.045862,064318,,,,1
 064319,Wesselényi utca,47.352046,19.045385,064319,,,,2
 064377,Ürömhegyi út / Jutas utca [8],47.582618,19.015383,064377,,,,2
-066451,Infopark,47.469171,19.059717,066451,,,,1
-066452,Infopark,47.469072,19.060500,066452,,,,1
-066453,Budafoki út / Dombóvári út,47.469808,19.053655,066453,,,,1
-066454,Budafoki út / Dombóvári út,47.469646,19.054384,066454,,,,1
-066455,Hauszmann Alajos utca / Szerémi út,47.466536,19.049570,066455,,,,1
-066456,Hauszmann Alajos utca / Szerémi út,47.467013,19.049756,066456,,,,1
-066457,Hengermalom út / Szerémi út,47.462066,19.048336,066457,,,,1
-066458,Hengermalom út / Szerémi út,47.462551,19.048509,066458,,,,1
-066459,Etele út / Fehérvári út,47.462389,19.042594,066459,,,,1
-066460,Etele út / Fehérvári út,47.462254,19.043363,066460,,,,1
+066451,Infopark,47.469194,19.059729,066451,,,,1
+066452,Infopark,47.469086,19.060499,066452,,,,1
+066453,Budafoki út / Dombóvári út,47.469797,19.053667,066453,,,,1
+066454,Budafoki út / Dombóvári út,47.469644,19.054370,066454,,,,1
+066455,Hauszmann Alajos utca / Szerémi út,47.466559,19.049568,066455,,,,1
+066456,Hauszmann Alajos utca / Szerémi út,47.467035,19.049754,066456,,,,1
+066457,Hengermalom út / Szerémi út,47.462097,19.048308,066457,,,,1
+066458,Hengermalom út / Szerémi út,47.462583,19.048507,066458,,,,1
+066459,Etele út / Fehérvári út,47.462376,19.042618,066459,,,,1
+066460,Etele út / Fehérvári út,47.462277,19.043347,066460,,,,1
 066477,Hunyadi János út tároló,47.431139,19.042741,066477,,,,2
 066679,Pallós utca,47.487056,19.291849,066679,,,,2
 066680,Pallós utca,47.487030,19.291490,066680,,,,2
@@ -1087,14 +1073,13 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 066856,Pagony utca,47.495101,19.002830,066856,,,,1
 066969,Zimonyi utca,47.471748,19.299950,066969,,,,2
 067002,Kelenföldi VB pályaudvar,47.463329,19.022895,067002,,,,
+067164,Puskás Ferenc Stadion M,47.499877,19.103201,067164,,,,
 067215,Kőbánya alsó vasútállomás (Kápolna utca),47.481894,19.131782,067215,,,,2
 067335,Pesti út MOL kút,47.484366,19.227629,067335,,,,2
 067511,Orgonás (Sárospatak út),47.506109,19.004435,067511,,,,2
 067516,Orgonás (Sárospatak út),47.506253,19.004156,067516,,,,2
-067563,"Csepel, Szent István út MOL kút",47.419083,19.074285,067563,,,,2
 067622,"Csepel, Csillagtelep",47.409970,19.060354,067622,,,,1
 068751,"Páty, autóbusz-forduló",47.511928,18.811387,068751,,,,2
-068796,Kőbánya alsó vasútállomás,47.482230,19.129110,068796,,,,1
 069089,"Margit híd, budai hídfő H",47.515149,19.037569,069089,,,,1
 069090,"Margit híd, budai hídfő H",47.515122,19.037158,069090,,,,1
 069091,"Margit híd, budai hídfő H",47.514717,19.035936,069091,,,,1
@@ -1114,19 +1099,18 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 070128,Szilaspatak sor,47.588027,19.096700,070128,,,,1
 070997,Széll Kálmán tér M,47.507797,19.023271,070997,,,,1
 071236,Szent Gellért tér - Műegyetem M,47.482689,19.054984,071236,,,,1
-071257,Hengermalom út / Szerémi út,47.462039,19.048509,071257,,,,1
-071260,Hauszmann Alajos utca / Szerémi út,47.466801,19.049860,071260,,,,2
-071261,Hauszmann Alajos utca / Szerémi út,47.466685,19.049395,071261,,,,2
 071262,BudaPart,47.468550,19.057940,071262,,,,1
 071659,Nyugati pályaudvar M,47.509906,19.055040,071659,,,,1
 071927,Batthyány tér M+H,47.506020,19.038049,071927,,,,1
 072046,Muflon utca,47.570835,18.931411,072046,,,,1
 072047,Muflon utca,47.570673,18.931477,072047,,,,1
+072606,Szűcs utca,47.525127,19.210649,072606,,,,
+072669,Takács utca,47.526352,19.209112,072669,,,,2
 072851,Maros utcai rendelőintézet,47.503868,19.022427,072851,,,,2
 072934,Rudas Gyógyfürdő,47.490110,19.047195,072934,,,,1
 072935,Rudas Gyógyfürdő,47.489824,19.047383,072935,,,,1
 072938,CS/ Kossuth Lajos utca MOL,47.438084,19.071291,072938,,,,2
-073099,Széll Kálmán tér M,47.507815,19.022833,073099,,,,1
+073099,"Budapest, Széll Kálmán tér",47.507815,19.022833,073099,,,,1
 073108,Budafoki út / Dombóvári út,47.468757,19.053324,073108,,,,1
 073152,Maros utca,47.505504,19.021603,073152,,,,1
 073308,Solymár vasútállomás,47.596035,18.949797,073308,,,,1
@@ -1138,17 +1122,18 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 073513,Óceán-árok utca,47.589504,19.101543,073513,,,,1
 074021,Kőbányai garázs,47.491018,19.114222,074021,,,,2
 074495,Törökbálint Sportközpont,47.440533,18.897203,074495,,,,1
-074501,Krisztina tér,47.496674,19.031575,074501,,,,1
-074592,Bokréta utca,47.479027,19.073048,074592,,,,
-074637,Csáktornya park,47.536739,19.106243,074637,,,,1
 074909,Auchan Liget,47.541449,19.246632,074909,,,,1
-074935,Nagy Lajos király útja / Czobor utca,47.522800,19.101992,F02865,,merged,MERGED_F02865,1
+074935,Nagy Lajos király útja / Czobor utca,47.522827,19.102034,F02865,,merged,MERGED_F02865,1
 075119,Nyár utca,47.435414,18.918706,075119,,,,1
+075152,Vágás utca (óvoda),47.527861,19.203951,075152,,,,2
 075220,Óbudai autóbuszgarázs,47.567996,19.027538,075220,,,,1
+075474,Malomdomb (áruház),47.526788,19.206258,075474,,,,2
 075654,Köves út / Szentlőrinci út,47.416057,19.143215,075654,,,,1
 075655,Köves út / Szentlőrinci út,47.416264,19.143255,075655,,,,1
+075684,Bóbitás út / Szakács utca,47.527415,19.207814,075684,,,,
 075744,Sasadi út,47.465452,19.015814,075744,,,,1
-075839,Gimnázium,47.581434,19.105696,075839,,,,1
+075838,Gimnázium,47.581677,19.105776,075838,,,,1
+075839,Gimnázium,47.581335,19.105842,075839,,,,1
 076394,Aranyvölgy vasútállomás,47.574371,19.016425,076394,,,,1
 076395,Aranyvölgy vasútállomás,47.573795,19.017688,076395,,,,1
 076396,Óbuda vasútállomás (Aranyhegyi út),47.570533,19.028308,076396,,,,1
@@ -1159,9 +1144,9 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 077969,Andor utcai autóbuszgarázs (kapu),47.457701,19.027184,077969,,,,
 078004,Széll Kálmán tér M,47.507124,19.023155,078004,,,,1
 078064,Nyéki Imre Uszoda,47.451047,19.037609,078064,,,,1
-081544,Puskás Ferenc Stadion,47.500174,19.106381,F01325,,merged,CS004521,1
 081565,Széll Kálmán tér M,47.507709,19.024363,081565,,,,1
 081950,Városház tér,47.426313,19.040040,081950,,,,1
+081954,Kacsa utca,47.510526,19.039256,081954,,,,1
 082200,Bécsi út / Vörösvári út,47.546762,19.029194,082200,,,,1
 082356,Békásmegyer H,47.597853,19.054094,082356,1,,,
 082357,Közvágóhíd H,47.467693,19.076536,082357,1,,,
@@ -1173,7 +1158,10 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 083331,Savoyai Jenő tér (Plébánia utca),47.428795,19.035480,083331,,,,1
 083601,Rudas Gyógyfürdő,47.490065,19.047301,083601,,,,
 083777,Budafoki Szomszédok Piaca,47.427563,19.039417,083777,,,,1
-084856,Krisztina tér,47.497050,19.031969,084856,,,,2
+084095,Kovács utca,47.528722,19.206423,084095,,,,2
+084181,Menyhért utca / Budapesti út,47.529964,19.205564,084181,,,,2
+084831,Biztató út / Szakács utca,47.528653,19.210072,084831,,,,
+084946,Biztató út / Budapesti út,47.530481,19.208484,084946,,,,2
 085723,Lehel tér M (Lehel utca),47.517100,19.062144,085723,,,,
 085867,Zenélőkút,47.535764,19.052186,085867,,,,1
 086856,Nagyvárad tér M,47.477735,19.091400,086856,,,,1
@@ -1182,6 +1170,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 086875,Kondor Béla sétány,47.438745,19.167224,086875,,,,1
 086876,Fiatalság utca,47.437131,19.171052,086876,,,,1
 087373,"Soroksár, IKEA áruház",47.412758,19.160912,087373,,,,1
+087393,Fővám tér M,47.486952,19.057611,F00923,,merged,MERGED_F00923,1
 088017,"Napfény utca, MOL töltőállomás",47.458175,19.114884,088017,,,,
 088018,"Gyáli út, MOL Töltőállomás",47.459785,19.109854,088018,,,,
 088212,"Széna tér, tároló",47.508805,19.027359,088212,,,,1
@@ -1214,6 +1203,8 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 09084200,Kaszásdűlő,47.556508,19.045133,09084_09084200,,,,
 09084201,Kaszásdűlő,47.557039,19.045372,09084_09084201,,,,
 090915,Andor utca / Tétényi út,47.457127,19.033537,090915,,,,1
+090963,Cinkota H,47.520573,19.218894,090963,,,,2
+090995,Kerecsen utca / Hétvezér utca,47.529640,19.212230,090995,,,,2
 09100,Aquincum,47.567255,19.048728,09100,1,station,,
 09100202,Aquincum,47.567255,19.048728,09100,,merged,09100,
 09100203,Aquincum,47.567255,19.048728,09100,,merged,09100,
@@ -1225,6 +1216,7 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 09126,Budakalász,47.616165,19.054920,09126,1,station,,
 09126210,Budakalász,47.616165,19.054920,09126,,merged,09126,
 09126211,Budakalász,47.616165,19.054920,09126,,merged,09126,
+091289,Kerecsen utca / Budapesti út,47.530963,19.210719,091289,,,,2
 091338,Benczúr utca,47.512428,19.079600,091338,,,,1
 09134,Pomáz,47.642749,19.032657,09134,1,station,,
 09134217,Pomáz,47.642749,19.032657,09134,,merged,09134,
@@ -1271,9 +1263,8 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 09226,Csepel,47.421171,19.065803,09226,1,station,,
 09226234,Csepel,47.421171,19.065803,09226,,merged,09226,
 09226543,Csepel,47.421171,19.065803,09226,,merged,09226,
-093021,Kelenföld vasútállomás M,47.464752,19.023003,093021,,,,1
 093186,Művész út (Óvoda),47.496916,18.984414,093186,,,,
-094505,Liszt Ferenc Airport 2,47.432683,19.261152,094505,,,,1
+094505,Liszt Ferenc Airport 2,47.432505,19.261230,094505,,,,1
 094720,Balzac utca,47.513845,19.058426,094720,,,,1
 096830,Jogar utca,47.435122,19.013129,096830,,,,1
 096990,"Széchenyi-hegy, Gyermekvasút",47.494304,18.978233,096990,,,,2
@@ -1292,18 +1283,17 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 098674,Baross Gábor utca,47.436562,18.915588,098674,,,,2
 098882,"Budakeszi, Tesco áruház",47.499521,18.915018,098882,,,,2
 098921,Gubacsi út VB telephely,47.465388,19.086774,098921,,,,
-098998,Baross kocsiszín (Fiumei kapu),47.491463,19.088654,098998,,,,
 099012,"Budakeszi, Tesco áruház",47.499548,18.915217,099012,,,,1
 099343,Kossuth Lajos tér M,47.506003,19.049645,099343,,,,1
-099629,Bikás park M,47.463737,19.032434,099629,,,,1
-099630,Bikás park M,47.463603,19.033309,099630,,,,1
-099631,Bártfai utca,47.464205,19.028906,099631,,,,1
-099632,Bártfai utca,47.464088,19.029635,099632,,,,1
-099633,Kelenföld vasútállomás M,47.463988,19.023110,099633,,,,1
-099634,Kelenföld vasútállomás M,47.464473,19.023388,099634,,,,1
+099629,Bikás park M,47.463769,19.032417,099629,,,,1
+099630,Bikás park M,47.463625,19.033306,099630,,,,1
+099631,Bártfai utca,47.464236,19.028902,099631,,,,1
+099632,Bártfai utca,47.464110,19.029632,099632,,,,1
+099633,Kelenföld vasútállomás M,47.464010,19.023106,099633,,,,1
+099634,Kelenföld vasútállomás M,47.464469,19.023384,099634,,,,1
 099640,Kőbánya-Kispest M,47.462272,19.150446,099640,,,,
 099678,Svábhegy,47.497919,18.989543,099678,,,,1
-100605,Szemeretelep vasútállomás,47.444410,19.212978,100605,,,,1
+100605,Szemeretelep vasútállomás,47.444232,19.213265,100605,,,,1
 100836,Iglice utca / Jutas utca [9],47.577709,19.022351,100836,,,,2
 100837,Kőpor köz / Jutas utca [7],47.580955,19.018321,100837,,,,2
 100838,Kőpor köz / Jutas utca [7],47.580658,19.018614,100838,,,,2
@@ -1320,20 +1310,23 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 102283,Wein János út,47.456524,19.071027,102283,,,,2
 102568,Rózsakert utca / Minta utca,47.403146,19.010169,102568,,,,1
 102569,Rózsakert utca / Minta utca,47.403776,19.011043,102569,,,,1
+102592,Karolina út (Sárbogárdi út),47.472818,19.034351,102592,,,,1
 102825,Örs vezér tere M+H,47.505315,19.136268,102825,,,,2
+102861,Nyugati pályaudvar M,47.510757,19.056308,102861,,,,2
 103053,Budaörsi lakótelep,47.455747,18.941160,103053,,,,1
 103386,Balatoni út / Háros utca,47.433069,19.005455,103386,,,,1
 103387,Balatoni út / Háros utca,47.432125,19.005257,103387,,,,1
 103388,Balatoni út / Háros utca,47.431890,19.004674,103388,,,,1
 103389,Balatoni út / Háros utca,47.431783,19.004926,103389,,,,1
-103871,Lehel tér M,47.518240,19.060664,103871,,,,2
 103897,Liget sor,47.488054,19.244774,103897,,,,1
 105507,Cargo City,47.430323,19.270282,105507,,,,2
 106377,Újpest-városkapu M (Temesvári utca),47.559667,19.082511,106377,,,,2
+106387,"Üröm, Kert utca",47.600418,19.007120,106387,,,,1
 106390,KÖKI-Regina tároló,47.464388,19.142967,106390,,,,
 107474,Kvassay híd,47.457434,19.071039,107474,1,,,2
 107799,Budakeszi temető,47.514028,18.922403,107799,,,,2
 109234,"Kőbányai út,MOL töltőállomás",47.482459,19.124160,109234,,,,
+109489,"Pilisborosjenő, iskola",47.602332,19.002226,109489,,,,1
 109518,Vihorlát út,47.389236,19.100043,109518,,,,1
 109519,Vihorlát út,47.389119,19.100176,109519,,,,1
 109539,"Csillebérc, Gyermekvasút tároló",47.497687,18.963730,109539,,,,
@@ -1346,14 +1339,19 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 109849,Doboz utca,47.602193,19.052910,109849,,,,1
 109884,Ludovika Aréna,47.484067,19.090861,109884,,,,2
 109885,Ludovika Aréna,47.483995,19.091100,109885,,,,1
+109949,"Vágány u., MOL töltőállomás",47.522340,19.081139,109949,,,,
 110010,Vérmező tároló,47.499255,19.027605,110010,,,,
 110321,"Normafa, látogatóközpont",47.500739,18.967441,110321,,,,1
 110322,"Normafa, látogatóközpont",47.500578,18.967972,110322,,,,1
+110369,Honfoglalás park,47.530798,19.213588,110369,,,,
 110452,Nemzetközi Posta Kicserélő Központ,47.427629,19.265757,110452,,,,2
 110870,Gödöllő H,47.591508,19.357892,110870,,,,1
+111564,"Pilisborosjenő, Újtelep",47.604851,18.993613,111564,,,,1
 112336,Horváth utca,47.511545,19.034072,112336,,,,
 112880,"Szigetszentmiklós, Szabadság utca",47.358296,19.031884,064075,,merged,MERGED_064075,1
+114754,Pilisborosjenői elágazás,47.586568,19.006251,114754,,,,1
 115226,"Szabadkikötő, D épületek",47.451711,19.070971,115226,,,,2
+116270,"Pilisborosjenő, orvosi rendelő",47.607928,18.990849,116270,,,,1
 116271,Akadémiaújtelep vasútállomás,47.485166,19.223003,116271,,,,1
 116272,Akadémiaújtelep vasútállomás,47.485456,19.221597,116272,,,,1
 116310,Patak utca,47.503019,18.921991,116310,,,,1
@@ -1405,12 +1403,14 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 118811,"Tök, Fő utca 100.",47.560806,18.729505,118811,,,,1
 120179,Sport utca,47.456428,18.948227,120179,,,,1
 120666,Fehér Holló utca,47.475344,19.085999,120666,,,,1
+121033,Ürömi mészégető,47.590500,19.010152,121033,,,,1
 121935,Kálvin tér M,47.488752,19.061022,121935,,,,1
 121946,"Petőfi híd, budai hídfő",47.479019,19.059321,121946,,,,1
 123405,Göncz Árpád városkp. M (Esztergomi út),47.535016,19.064326,123405,,,,1
 123833,Bécsi út CNG kút,47.560209,19.023994,123833,,,,
 123834,Budafoki út CNG kút,47.462026,19.054121,123834,,,,
-125184,Ősz utca,47.446197,19.100297,F01443,,merged,MERGED_F01443,1
+124358,"Üröm, Csókavár utca",47.594951,19.012720,124358,,,,1
+125392,"Üröm, Templom tér",47.598987,19.012565,125392,,,,1
 139866,Harsona utca,47.490264,19.271176,139866,,,,2
 139867,Bártfai utca / Diadal utca,47.493155,19.268706,139867,,,,2
 139868,Jászapáti utca,47.494849,19.267147,139868,,,,2
@@ -1429,9 +1429,19 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 139998,Földeák utca,47.477418,19.302656,139998,,,,2
 140234,Rácsos utca (iskola),47.495402,19.274210,140234,,,,1
 141891,Sport tér,47.477158,19.295883,141891,,,,2
+142155,"Pilisborosjenő, orvosi rendelő",47.607289,18.991266,142155,,,,1
 142232,Pannon út,47.438935,18.932657,142232,,,,1
 142233,Pannon út,47.438841,18.933013,142233,,,,1
-195367,Soroksár vasútállomás,47.401272,19.122364,195367,,,,
+166508,"Pilisborosjenő, Újtelep",47.604560,18.994178,166508,,,,1
+167955,"Pilisborosjenő, iskola",47.602071,19.002733,167955,,,,1
+169103,"Üröm, Kert utca",47.599974,19.007957,169103,,,,1
+169104,"Üröm, Templom tér",47.598920,19.012555,169104,,,,1
+175046,"Üröm, Csókavár utca",47.595345,19.012733,175046,,,,1
+175049,Ürömi mészégető,47.589914,19.009979,175049,,,,1
+175050,Pilisborosjenői elágazás,47.586649,19.006248,175050,,,,1
+182813,"Árpádföld, Bekecs utca",47.533451,19.207673,182813,,,,1
+188091,Menyecske utca,47.460251,19.017379,F01921,,merged,MERGED_F01921,
+190212,Kérő utca,47.462034,19.016320,F01923,,merged,MERGED_F01923,1
 19720,Közvágóhíd,47.466285,19.077170,19720,1,station,,
 19720236,Közvágóhíd,47.466285,19.077170,19720,,merged,19720,
 19720237,Közvágóhíd,47.466285,19.077170,19720,,merged,19720,
@@ -1564,8 +1574,18 @@ stop_id,stop_name,stop_lat,stop_lon,stop_code,location_type,location_sub_type,pa
 19870,Gödöllő,47.593341,19.357787,19870,1,station,,
 19870325,Gödöllő,47.593341,19.357787,19870,,merged,19870,
 19870326,Gödöllő,47.593341,19.357787,19870,,merged,19870,
-204240,Bajcsy-Zsilinszky Kórház,47.480955,19.161213,204240,,,,
-CS004521,Puskás Ferenc Stadion,47.500266,19.105988,CS004521,1,,,
+214306,Bécsi út / Vörösvári út,47.550415,19.028432,214306,,,,
+218152,Miskolci utca / Csömöri út,47.526684,19.121771,218152,,,,1
+218155,Miskolci utca / Csömöri út,47.527089,19.120763,218155,,,,1
+218156,Huszt utcai lakótelep,47.527980,19.119223,218156,,,,1
+218157,Huszt utcai lakótelep,47.528286,19.118432,218157,,,,1
+218158,Miskolci utca / Kerékgyártó utca,47.530043,19.115168,218158,,,,1
+218159,Miskolci utca / Kerékgyártó utca,47.530267,19.114543,218159,,,,1
+218160,Miskolci utca / Erzsébet királyné útja,47.532177,19.111035,218160,,,,1
+218161,Miskolci utca / Erzsébet királyné útja,47.532060,19.111034,218161,,,,1
+225405,Rekettye utca,47.541767,19.106715,225405,,,,
+225406,Perczel Mór utca,47.538042,19.110191,225406,,,,
+225407,Kolozsvár utcai piac,47.536115,19.113616,225407,,,,
 CS056215,Kelenföld vasútállomás,47.464299,19.019717,CS056215,1,,,
 CS056217,Bikás park,47.465005,19.033383,CS056217,1,,,
 CS056219,Újbuda-központ,47.473931,19.046312,CS056219,1,,,
@@ -1599,6 +1619,7 @@ CSF01232,Semmelweis Klinikák,47.482834,19.079176,CSF01232,1,,,
 CSF01252,Nagyvárad tér,47.479161,19.089542,CSF01252,1,,,
 CSF01282,Népliget,47.475518,19.098694,CSF01282,1,,,
 CSF01291,Blaha Lujza tér,47.497097,19.070595,CSF01291,1,,,
+CSF01324,Puskás Ferenc Stadion,47.500266,19.105988,CSF01324,1,,,
 CSF01493,Ecseri út,47.470893,19.110921,CSF01493,1,,,
 CSF01541,Határ út,47.465394,19.126672,CSF01541,1,,,
 CSF01543,Kőbánya-Kispest [D],47.463437,19.148625,CSF01543,1,,,
@@ -1628,12 +1649,12 @@ F00012,Búsuló Juhász (Citadella),47.485594,19.039551,F00012,,,,2
 F00013,Királyhágó utca,47.494901,19.023055,F00013,,,,1
 F00014,Királyhágó utca,47.494460,19.023945,F00014,,,,1
 F00015,Királyhágó utca,47.494839,19.023732,F00015,,,,1
-F00016,Királyhágó utca,47.495566,19.023015,F00016,,,,1
-F00017,Királyhágó utca,47.496088,19.023479,F00017,,,,1
+F00016,Királyhágó utca,47.495569,19.022686,F00016,,,,1
+F00017,Királyhágó utca,47.496113,19.023475,F00017,,,,1
 F00018,Királyhágó utca,47.495669,19.023612,F00018,,,,1
 F00019,Nagyenyed utca,47.498029,19.023858,F00019,,,,1
 F00020,Nagyenyed utca,47.498335,19.024011,F00020,,,,1
-F00021,Déli pályaudvar M,47.499614,19.023793,F00021,,,,2
+F00021,"Budapest, Déli pályaudvar",47.499567,19.023792,F00021,,,,2
 F00022,Déli pályaudvar M,47.499686,19.024208,F00022,,,,2
 F00023,Déli pályaudvar M,47.500001,19.023809,F00023,,,,1
 F00024,Déli pályaudvar M,47.500848,19.024021,F00024,,,,1
@@ -1649,12 +1670,10 @@ F00033,Széna tér,47.507782,19.028184,F00033,,,,1
 F00034,Fazekas utca,47.508268,19.034372,F00034,,,,1
 F00035,Fazekas utca,47.507989,19.034133,F00035,,,,1
 F00036,Fazekas utca,47.507773,19.033443,F00036,,,,1
-F00037,Várkert Bazár,47.493851,19.043373,F00037,,,,1
 F00045,Donáti utca,47.501307,19.036072,F00045,,,,1
 F00047,Clark Ádám tér,47.498312,19.039816,F00047,,,,1
 F00048,Clark Ádám tér,47.498195,19.040028,F00048,,,,1
 F00049,Clark Ádám tér,47.497671,19.040663,F00049,,,,1
-F00050,Clark Ádám tér,47.497799,19.040811,F00050,,,,1
 F00051,Halász utca,47.502260,19.039815,F00051,,,,1
 F00052,Halász utca,47.501784,19.040028,F00052,,,,1
 F00053,Halász utca,47.502448,19.039759,F00053,,,,1
@@ -1666,15 +1685,14 @@ F00063,Batthyány tér,47.506826,19.038103,F00063,,,CSF00062,2
 F00064,Batthyány tér M+H,47.506613,19.038872,F00066,,merged,MERGED_F00066,1
 F00065,Batthyány tér M+H (Bem rakpart),47.507423,19.039270,F00065,,,,1
 F00066,Batthyány tér M+H,47.506613,19.038872,F00066,,merged,MERGED_F00066,1
-F00067,Batthyány tér M+H,47.505876,19.039005,F00067,,,,1
+F00067,Batthyány tér M+H,47.505902,19.039002,F00067,,,,1
 F00068,Mária tér,47.506738,19.034794,F00068,,,,1
 F00069,Bécsi kapu tér,47.504553,19.030683,F00069,,,,1
 F00070,Bécsi kapu tér,47.504751,19.030324,F00070,,,,1
 F00071,Szentháromság tér,47.501324,19.033710,F00071,,,,1
 F00072,Szentháromság tér,47.501306,19.033896,F00072,,,,1
-F00073,Dísz tér,47.499787,19.035330,F00073,,,,1
+F00073,Dísz tér,47.499398,19.035990,F00073,,,,1
 F00074,Dísz tér,47.498950,19.036113,F00074,,,,1
-F00075,Dísz tér,47.498599,19.036073,F00075,,,,1
 F00076,"Palota út, gyorslift",47.495182,19.038529,F00076,,,,2
 F00077,Dózsa György tér,47.494732,19.037720,F00077,,,,1
 F00078,Dózsa György tér,47.494426,19.037932,F00078,,,,1
@@ -1736,8 +1754,8 @@ F00135,Kolosy tér,47.527983,19.037660,F00135,,,,1
 F00136,Kolosy tér,47.527687,19.037474,F00136,,,,1
 F00137,Kolosy tér,47.528586,19.039001,F00137,,,,1
 F00138,Kolosy tér,47.526913,19.038204,F00138,,,,2
-F00141,Margitsziget / Margit híd,47.514717,19.042521,F00141,,,,1
-F00142,Margitsziget / Margit híd,47.514439,19.044327,F00142,,,,1
+F00141,Margitsziget / Margit híd,47.514717,19.042479,F00141,,,,1
+F00142,Margitsziget / Margit híd,47.514447,19.044324,F00142,,,,1
 F00143,Margitsziget / Margit híd,47.515986,19.043995,F00143,,,,1
 F00144,Margitsziget / Margit híd,47.515779,19.043743,F00144,,,,1
 F00146,Margitsziget / Margit híd,47.514629,19.043264,F00146,,,,2
@@ -1781,26 +1799,26 @@ F00183,Országos Korányi Intézet,47.522736,18.941568,F00183,,,,1
 F00184,Országos Korányi Intézet,47.522367,18.941158,F00184,,,,1
 F00187,Bem József tér,47.512055,19.039322,F00187,,,,1
 F00188,Bem József tér,47.511308,19.038221,F00188,,,,1
-F00189,"Margit híd, budai hídfő H",47.514546,19.038897,F00189,,,,1
+F00189,"Margit híd, budai hídfő H",47.514564,19.038894,F00189,,,,1
 F00190,"Margit híd, budai hídfő H",47.514447,19.038828,F00190,,,,1
 F00191,"Margit híd, budai hídfő H",47.514680,19.036650,F00191,,,,1
-F00192,"Margit híd, budai hídfő H",47.514618,19.038193,F00192,,,,1
+F00192,"Margit híd, budai hídfő H",47.514653,19.038164,F00192,,,,1
 F00193,Horvát utca,47.511119,19.034570,F00193,,,,1
 F00194,Horvát utca,47.510238,19.034451,F00194,,,,1
 F00195,Mechwart liget,47.511344,19.032247,F00195,,,,1
 F00196,Mechwart liget,47.511236,19.032074,F00196,,,,1
 F00197,Mechwart liget,47.510534,19.030548,F00197,,,,1
-F00198,Mechwart liget,47.510778,19.031462,F00198,,,,1
-F00199,Mechwart liget,47.510939,19.032114,F00199,,,,1
+F00198,Mechwart liget,47.510767,19.031447,F00198,,,,1
+F00199,Mechwart liget,47.510965,19.032111,F00199,,,,1
 F00200,Mechwart liget,47.510516,19.031225,F00200,,,,2
 F00201,Füge utca,47.513933,19.027387,F00201,,,,1
 F00202,Füge utca,47.513942,19.026750,F00202,,,,1
 F00203,Rét utca,47.514589,19.024294,F00203,,,,1
 F00204,Rét utca,47.514715,19.023855,F00204,,,,1
-F00205,Ady Endre utca,47.516802,19.024293,F00205,,,,1
-F00206,Ady Endre utca,47.516640,19.024186,F00206,,,,1
-F00207,Tapolcsányi utca,47.517405,19.022449,F00207,,,,1
-F00208,Tapolcsányi utca,47.517855,19.020598,F00208,,,,1
+F00205,Ady Endre utca,47.516864,19.024236,F00205,,,,1
+F00206,Ady Endre utca,47.516657,19.024196,F00206,,,,1
+F00207,Tapolcsányi utca,47.517511,19.021128,F00207,,,,1
+F00208,Tapolcsányi utca,47.517394,19.020903,F00208,,,,1
 F00209,Eszter utca,47.520111,19.021914,F00209,,,,1
 F00210,Eszter utca,47.520084,19.021729,F00210,,,,1
 F00211,Vend utca,47.521685,19.020480,F00211,,,,1
@@ -1895,8 +1913,8 @@ F00303,Lorántffy Zsuzsanna út,47.512555,19.017444,F00303,,,,1
 F00304,Ezredes utca,47.510460,19.021043,F00304,,,,1
 F00305,Fény utcai piac,47.508275,19.023766,F00305,,,,1
 F00306,Széna tér,47.508472,19.026948,F00306,,,,1
-F00307,Széna tér,47.508114,19.026739,F00307,,,,1
-F00308,Széna tér,47.508483,19.027323,F00308,,,,1
+F00307,Széna tér,47.508140,19.026735,F00307,,,,1
+F00308,Széna tér,47.508491,19.027319,F00308,,,,1
 F00309,Széna tér,47.508365,19.027386,F00309,,,,1
 F00310,Kelemen László utca,47.522392,18.989170,F00310,,,,1
 F00311,Kelemen László utca,47.521646,18.990446,F00311,,,,1
@@ -1976,8 +1994,8 @@ F00396,Szarvashegy utca,47.569250,18.948757,F00396,,,,1
 F00397,Szarvashegy utca,47.569241,18.948558,F00397,,,,1
 F00398,Örökzöld utca,47.572335,18.944436,F00398,,,,2
 F00399,Örökzöld utca,47.571885,18.944702,F00399,,,,2
-F00400,Templom utca (Kultúrkúria),47.564538,18.960194,F00400,,,,1
-F00401,Templom utca (Kultúrkúria),47.564591,18.959649,F00401,,,,1
+F00400,Templom utca (Kultúrkúria),47.564568,18.960186,F00400,,,,1
+F00401,Templom utca (Kultúrkúria),47.564827,18.958936,F00401,,,,1
 F00402,Községház utca,47.562427,18.963254,F00402,,,,1
 F00403,Községház utca,47.562962,18.962741,F00403,,,,1
 F00404,Mikszáth Kálmán utca,47.559154,18.965664,F00404,,,,1
@@ -2004,8 +2022,6 @@ F00429,Akadémia,47.519534,18.993462,F00429,,,,1
 F00430,Akadémia,47.519337,18.993900,F00430,,,,2
 F00431,Akadémia,47.518914,18.994153,F00431,,,,1
 F00432,Akadémia,47.519292,18.994126,F00432,,,,2
-F00433,Tücsök utca,47.585525,18.997527,F00433,,,,2
-F00434,Tücsök utca,47.585462,18.997341,F00434,,,,1
 F00435,Pusztadombi utca,47.602490,19.056687,F00435,,,,2
 F00436,Égető utca,47.604019,19.052445,F00436,,,,1
 F00437,Táncsics Mihály utca,47.602661,19.051301,F00437,,,,1
@@ -2125,7 +2141,7 @@ F00565,Táborhegyi út,47.549711,19.026376,F00565,,,,1
 F00566,Bécsi út / Vörösvári út,47.548659,19.027812,F00566,,,,1
 F00567,Bécsi út / Vörösvári út,47.547895,19.029645,F00567,,,,1
 F00568,Bécsi út / Vörösvári út,47.548489,19.028994,F00568,,merged,MERGED_F00568,1
-F00569,Bécsi út / Vörösvári út,47.548768,19.029379,F00569,,,,1
+F00569,Bécsi út / Vörösvári út,47.548796,19.029376,F00569,,,,1
 F00570,Bécsi út / Vörösvári út,47.548372,19.029565,F00570,,,,1
 F00573,"Óbuda, Bogdáni út",47.550712,19.041826,F00573,,,,1
 F00574,"Óbuda, Bogdáni út",47.550541,19.042066,F00574,,,,1
@@ -2134,11 +2150,12 @@ F00576,Bogdáni út,47.550183,19.043976,F00576,,,,1
 F00577,Bogdáni út,47.548409,19.043102,F00577,,,,1
 F00580,Raktár utca,47.545288,19.042837,F00580,,,,1
 F00581,Raktár utca,47.544947,19.042757,F00581,,,,1
+F00582,Raktár utca,47.545085,19.042331,F00582,,,,2
 F00583,Raktár utca,47.544713,19.042212,F00583,,,,1
 F00584,Óbudai rendelőintézet,47.546735,19.032621,F00584,,,,1
 F00585,Óbudai rendelőintézet,47.545467,19.033618,F00585,,,,1
-F00586,Óbudai rendelőintézet,47.545957,19.033456,F00586,,,,1
-F00587,Óbudai rendelőintézet,47.544878,19.034772,F00587,,,,1
+F00586,Óbudai rendelőintézet,47.545936,19.033455,F00586,,,,1
+F00587,Óbudai rendelőintézet,47.544884,19.034770,F00587,,,,1
 F00588,Vihar utca,47.544002,19.036381,F00588,,,,1
 F00589,Szőlő utca,47.543480,19.036434,F00589,,,,1
 F00590,Váradi utca,47.543524,19.029926,F00590,,,,1
@@ -2157,15 +2174,15 @@ F00603,Nagyszombat utca,47.531833,19.040023,F00603,,,,1
 F00604,Tímár utca,47.535152,19.039969,F00604,,,,1
 F00605,Tímár utca,47.534333,19.039730,F00605,,,,1
 F00606,Kiscelli utca,47.538723,19.040500,F00606,,,,1
-F00607,Kiscelli utca,47.539244,19.040407,F00607,,,,1
+F00607,Kiscelli utca,47.538517,19.040218,F00607,,,,1
 F00608,Remetehegyi út,47.535348,19.027232,F00608,,,,1
 F00609,Mikoviny utca,47.532129,19.029066,F00609,,,,1
 F00610,Kőzet utca,47.532740,19.028522,F00610,,,,1
 F00611,Flórián tér,47.542896,19.042252,F00611,,,,1
 F00612,Flórián tér,47.541987,19.041190,F00612,,,,1
 F00613,Flórián tér,47.541664,19.040088,F00613,,,,1
-F00614,Flórián tér,47.541517,19.039960,F00614,,,,1
-F00615,Flórián tér,47.541109,19.040538,F00615,,,,1
+F00614,Flórián tér,47.541539,19.039979,F00614,,,,1
+F00615,Flórián tér,47.541116,19.040536,F00615,,,,1
 F00616,Flórián tér,47.541672,19.039184,F00616,,,,1
 F00617,ATI,47.570567,19.018314,F00617,,,,1
 F00618,ATI,47.569550,19.018939,F00618,,,,2
@@ -2173,10 +2190,10 @@ F00619,Szentlélek tér H,47.539830,19.046328,F00619,,,,1
 F00620,Szentlélek tér H,47.539911,19.045890,F00620,,,,1
 F00621,Szentlélek tér H,47.540207,19.045998,F00621,,,,1
 F00622,Szentlélek tér H,47.540153,19.046251,F00622,,,,1
-F00626,Szentlélek tér H,47.539593,19.045207,F00626,,,,1
+F00626,Szentlélek tér H,47.539596,19.045199,F00626,,,,1
 F00627,Szentlélek tér H,47.539694,19.045773,F00627,,,,2
 F00628,Szentlélek tér H,47.539190,19.045680,F00628,,,,2
-F00629,Szentlélek tér H,47.539377,19.045937,F00629,,,,1
+F00629,Szentlélek tér H,47.539362,19.045916,F00629,,,,1
 F00630,Bóbita utca,47.572851,19.016359,F00630,,,,1
 F00631,Bóbita utca,47.571951,19.016865,F00631,,,,1
 F00634,Szélvész utca,47.531479,19.020342,F00634,,,,1
@@ -2258,7 +2275,7 @@ F00721,Homoktövis utca / Megyeri út,47.593847,19.113671,F00721,,,,1
 F00722,"Káposztásmegyer, Mogyoródi-patak",47.598483,19.121269,F00722,,,,2
 F00723,"Káposztásmegyer, Megyeri út",47.593204,19.119973,F00723,,,,1
 F00724,"Káposztásmegyer, Megyeri út",47.593141,19.120265,F00724,,,,1
-F00725,"Káposztásmegyer, Megyeri út",47.593420,19.120491,F00725,,,,2
+F00725,"Káposztásmegyer, Megyeri út",47.593452,19.120494,F00725,,,,2
 F00726,Szíjgyártó utca,47.589187,19.114942,F00726,,,,1
 F00727,Szíjgyártó utca,47.588837,19.114104,F00727,,,,1
 F00728,Homoktövis utca (Óvoda),47.589527,19.117973,F00728,,,,1
@@ -2268,16 +2285,16 @@ F00731,Gimnázium,47.582644,19.105908,F00731,,,,1
 F00732,Művelődési Központ,47.579782,19.109254,F00732,,,,1
 F00733,Művelődési Központ,47.579639,19.109041,F00733,,,,1
 F00734,Járműtelep utca,47.582863,19.116848,F00734,,,,1
-F00735,Járműtelep utca,47.582539,19.117047,F00735,,,,2
-F00736,Járműtelep utca,47.582099,19.116900,F00736,,,,2
+F00735,Járműtelep utca,47.582570,19.117063,F00735,,,,2
+F00736,Járműtelep utca,47.582130,19.116903,F00736,,,,2
 F00737,Járműtelep utca,47.581865,19.116594,F00737,,,,1
 F00738,Galopp utca,47.580597,19.116672,F00738,,,,1
 F00739,Hajló utca,47.578773,19.112377,F00739,,,,1
 F00740,Hajló utca,47.578593,19.112616,F00740,,,,1
 F00741,Óceán-árok utca,47.577953,19.115938,F00741,,,,1
 F00742,"Káposztásmegyer, Szilas-patak",47.577657,19.115153,F00742,,,,1
-F00743,Óceán-árok utca,47.578088,19.116151,F00743,,,,2
-F00744,Óceán-árok utca,47.577716,19.115915,F00744,,,,2
+F00743,Óceán-árok utca,47.578118,19.116167,F00743,,,,2
+F00744,Óceán-árok utca,47.577714,19.115900,F00744,,,,2
 F00745,Óceán-árok utca,47.578358,19.115752,F00745,,,,1
 F00746,"Káposztásmegyer, Szilas-patak",47.577279,19.114435,F00746,,,,2
 F00747,Ugró Gyula sor,47.580363,19.099139,F00747,,,,1
@@ -2315,19 +2332,19 @@ F00782,Illek Vince utca,47.565716,19.088322,F00782,,,,1
 F00783,Illek Vince utca,47.565968,19.088787,F00783,,,,1
 F00784,Csokonai utca,47.565032,19.090527,F00784,,,,1
 F00785,Csokonai utca,47.564924,19.090607,F00785,,,,1
-F00786,Kiss Ernő utca,47.565003,19.094022,F00786,,,,1
+F00786,Kiss Ernő utca,47.565033,19.094023,F00786,,,,1
 F00787,Kiss Ernő utca,47.564869,19.092587,F00787,,,,1
-F00788,Kiss Ernő utca,47.564940,19.094620,F00788,,,,1
+F00788,Kiss Ernő utca,47.564961,19.094621,F00788,,,,1
 F00789,Újpesti rendelőintézet,47.565765,19.099843,F00789,,,,1
-F00790,Újpesti rendelőintézet,47.565181,19.100533,F00790,,,,1
+F00790,Újpesti rendelőintézet,47.565210,19.100535,F00790,,,,1
 F00791,Újpesti rendelőintézet,47.565478,19.100055,F00791,,,,1
-F00792,Újpesti rendelőintézet,47.565064,19.099842,F00792,,,,1
+F00792,Újpesti rendelőintézet,47.565094,19.099844,F00792,,,,1
 F00793,Újpesti piac,47.563081,19.087987,F00793,,,,1
 F00794,Templom utca,47.563198,19.086725,F00794,,,,1
-F00795,Szent István tér (Újpesti piac),47.562815,19.090594,F00795,,,,2
-F00796,Szent István tér (Újpesti piac),47.563170,19.090765,F00796,,,,2
-F00797,Újpest-központ M,47.560157,19.089739,F00797,,,,2
-F00798,Újpest-központ M,47.560643,19.089833,F00798,,,,2
+F00795,Szent István tér (Újpesti piac),47.562804,19.090592,F00795,,,,2
+F00796,Szent István tér (Újpesti piac),47.563191,19.090779,F00796,,,,2
+F00797,Újpest-központ M,47.560187,19.089740,F00797,,,,2
+F00798,Újpest-központ M,47.560672,19.089833,F00798,,,,2
 F00799,Újpest-központ M,47.560616,19.088238,F00799,,,,1
 F00800,Újpest-központ M,47.560157,19.090922,F00800,,,,1
 F00801,Újpest-központ M,47.560184,19.090683,F00801,,,,1
@@ -2345,16 +2362,16 @@ F00814,Újpest-központ M (Munkásotthon utca),47.559213,19.089566,F00814,,,,1
 F00815,Újpest-központ M (Munkásotthon utca),47.559114,19.089140,F00815,,,,2
 F00816,Tél utca / Pozsonyi utca,47.555615,19.090294,F00816,,,,1
 F00817,Tél utca / Pozsonyi utca,47.555408,19.090254,F00817,,,,1
-F00818,Tél utca / Pozsonyi utca,47.556218,19.088846,F00818,,,,2
-F00819,Tél utca / Pozsonyi utca,47.554968,19.089669,F00819,,,,2
+F00818,Tél utca / Pozsonyi utca,47.556247,19.088847,F00818,,,,2
+F00819,Tél utca / Pozsonyi utca,47.554997,19.089643,F00819,,,,2
 F00820,Angyalföld kocsiszín,47.553114,19.092696,F00820,,,,2
 F00821,Angyalföld kocsiszín,47.553105,19.091448,F00821,,,,1
-F00822,Angyalföld kocsiszín,47.553015,19.091687,F00822,,,,2
-F00823,Angyalföld kocsiszín,47.552916,19.091846,F00823,,,,2
+F00822,Angyalföld kocsiszín,47.553044,19.091674,F00822,,,,2
+F00823,Angyalföld kocsiszín,47.552945,19.091847,F00823,,,,2
 F00824,Bőröndös utca,47.585040,19.116838,F00824,,,,1
 F00825,Bőröndös utca,47.585417,19.117197,F00825,,,,1
-F00826,Bőröndös utca,47.585597,19.117490,F00826,,,,2
-F00827,Bőröndös utca,47.585210,19.117197,F00827,,,,2
+F00826,Bőröndös utca,47.585628,19.117479,F00826,,,,2
+F00827,Bőröndös utca,47.585278,19.117186,F00827,,,,2
 F00828,Újpesti Erőmű,47.555171,19.099660,F00828,,,,1
 F00829,Újpesti Erőmű,47.554999,19.100842,F00829,,,,1
 F00830,Elem utca,47.554961,19.104615,F00830,,,,2
@@ -2371,9 +2388,8 @@ F00841,Kiss János utca,47.563422,19.109700,F00841,,,,1
 F00842,Kiss János utca,47.563269,19.110338,F00842,,,,1
 F00843,Rákospalota-Újpest vasútállomás,47.564339,19.110725,F00843,,,,2
 F00844,Rákospalota-Újpest vasútállomás,47.564312,19.110592,F00844,,,,2
-F00845,Rákospalota-Újpest vasútállomás,47.566227,19.111896,F00845,,,,2
-F00846,Rákospalota-Újpest vasútállomás,47.565841,19.111604,F00846,,,,2
-F00847,Rákospalota-Újpest vasútállomás,47.564923,19.111018,F00847,,,,1
+F00845,Rákospalota-Újpest vasútállomás,47.566257,19.111885,F00845,,,,2
+F00846,Rákospalota-Újpest vasútállomás,47.565870,19.111619,F00846,,,,2
 F00848,Mildenberger utca,47.572528,19.088075,F00848,,,,1
 F00849,Mildenberger utca,47.572093,19.088419,F00849,,,,1
 F00850,Mildenberger utca,47.572003,19.087768,F00850,,,,1
@@ -2402,8 +2418,8 @@ F00876,Deák Ferenc utca / Rózsa utca,47.564173,19.100120,F00876,,,,2
 F00877,Deák Ferenc utca / Rózsa utca,47.563247,19.099588,F00877,,,,2
 F00878,Nap utca,47.555379,19.094811,F00878,,,,1
 F00879,Nap utca,47.555190,19.095169,F00879,,,,1
-F00880,Szülőotthon,47.565232,19.106008,F00880,,,,1
-F00881,Szülőotthon,47.565340,19.106434,F00881,,,,1
+F00880,Szülőotthon,47.565262,19.106010,F00880,,,,1
+F00881,Szülőotthon,47.565369,19.106436,F00881,,,,1
 F00884,Izzó utca,47.579888,19.095736,F00884,,,,1
 F00885,Árpád Kórház,47.561402,19.103785,F00885,,,,1
 F00886,Árpád Kórház,47.561033,19.102961,F00886,,,,1
@@ -2424,8 +2440,8 @@ F00900,Kordován tér,47.587758,19.112600,F00900,,,,1
 F00901,Kordován tér,47.587327,19.111629,F00901,,,,1
 F00902,Bőrfestő utca,47.586928,19.117531,F00902,,,,1
 F00903,Bőrfestő utca,47.587791,19.118170,F00903,,,,1
-F00904,Bőrfestő utca,47.587809,19.118370,F00904,,,,2
-F00905,Bőrfestő utca,47.587422,19.118064,F00905,,,,2
+F00904,Bőrfestő utca,47.587840,19.118373,F00904,,,,2
+F00905,Bőrfestő utca,47.587454,19.118066,F00905,,,,2
 F00906,Székpatak utca,47.596181,19.121067,F00906,,,,1
 F00907,Székpatak utca,47.595848,19.121292,F00907,,,,1
 F00908,Sárpatak utca,47.593332,19.117141,F00908,,,,2
@@ -2434,22 +2450,21 @@ F00910,Újpest-központ M,47.561488,19.089913,F00910,,,,1
 F00912,Újpest-központ,47.560144,19.091319,F00912,,,CSF00912,1
 F00913,Újpest-központ,47.560437,19.089760,F00913,,,CSF00912,1
 F00916,Vízművek lakótelep,47.597652,19.091430,F00916,,,,2
-F00918,Fővám tér M,47.486754,19.056841,F00918,,,,1
-F00919,Fővám tér M,47.486862,19.056602,F00919,,,,1
+F00918,Fővám tér M,47.486770,19.056774,F00918,,,,1
+F00919,Fővám tér M,47.486941,19.056482,F00919,,,,1
 F00921,Fővám tér M,47.486916,19.057240,F00921,,,,1
 F00922,Fővám tér M,47.487186,19.057810,F00922,,,,1
-F00923,Fővám tér M,47.486952,19.057611,F00923,,,,1
+F00923,Fővám tér M,47.486952,19.057611,F00923,,merged,MERGED_F00923,1
 F00924,Petőfi tér,47.493105,19.050566,F00924,,,,1
-F00925,Jászai Mari tér,47.513099,19.048177,F00925,,,,1
-F00926,Jászai Mari tér,47.512847,19.048841,F00926,,,,1
-F00928,Jászai Mari tér,47.512838,19.047845,F00928,,,,2
-F00929,Jászai Mari tér,47.512532,19.050115,F00929,,,,1
-F00930,Jászai Mari tér,47.512478,19.049558,F00930,,,,1
+F00925,Jászai Mari tér,47.513116,19.048175,F00925,,,,1
+F00926,Jászai Mari tér,47.512864,19.048785,F00926,,,,1
+F00929,Jászai Mari tér,47.512558,19.050126,F00929,,,,1
+F00930,Jászai Mari tér,47.512504,19.049555,F00930,,,,1
 F00931,Szent István körút,47.511902,19.050513,F00931,,,,1
 F00932,Szent István körút,47.512046,19.052319,F00932,,,,1
-F00933,Nyugati pályaudvar M,47.510274,19.056168,F00933,,,,1
+F00933,Nyugati pályaudvar M,47.510300,19.056167,F00933,,,,1
 F00934,Nyugati pályaudvar M,47.509896,19.056394,F00934,,,,1
-F00935,Nyugati pályaudvar M,47.509896,19.056659,F00935,,,,1
+F00935,Nyugati pályaudvar M,47.509922,19.056658,F00935,,,,1
 F00936,Nyugati pályaudvar,47.511720,19.056873,F00936,,,CSF00936,1
 F00937,Nyugati pályaudvar,47.510828,19.055952,F00937,,,CSF00936,1
 F00938,Báthory utca / Bajcsy-Zsilinszky út,47.507063,19.054270,F00938,,,,1
@@ -2478,17 +2493,17 @@ F00962,Deák Ferenc tér,47.497720,19.053670,F00962,,,CSF00954,2
 F00963,Deák Ferenc tér,47.497728,19.054142,F00963,,,CSF00954,2
 F00964,Vörösmarty tér,47.496671,19.050193,F00964,,,CSF00964,2
 F00965,Vörösmarty tér,47.496737,19.050593,F00965,,,CSF00964,2
-F00966,Vigadó tér,47.495569,19.048402,F00966,,,,2
-F00967,Vigadó tér,47.495614,19.048322,F00967,,,,2
-F00968,"Országház, látogatóközpont",47.509150,19.046770,F00968,,,,1
-F00969,"Országház, látogatóközpont",47.508853,19.046584,F00969,,,,1
+F00966,Vigadó tér,47.495549,19.048374,F00966,,,,2
+F00967,Vigadó tér,47.495837,19.048215,F00967,,,,2
+F00968,"Országház, látogatóközpont",47.509176,19.046768,F00968,,,,1
+F00969,"Országház, látogatóközpont",47.508879,19.046582,F00969,,,,1
 F00970,Kossuth Lajos tér M,47.505966,19.050925,F00970,,,,1
-F00971,Kossuth Lajos tér M,47.505732,19.046836,F00971,,,,1
-F00972,Kossuth Lajos tér M,47.505679,19.047288,F00972,,,,1
-F00973,Széchenyi István tér,47.500660,19.046080,F00973,,,,2
-F00974,Széchenyi István tér,47.500901,19.046064,F00974,,,,2
-F00975,Eötvös tér,47.497827,19.047168,F00975,,,,2
-F00976,Eötvös tér,47.497944,19.047022,F00976,,,,2
+F00971,Kossuth Lajos tér M,47.505749,19.046834,F00971,,,,1
+F00972,Kossuth Lajos tér M,47.505713,19.047299,F00972,,,,1
+F00973,Széchenyi István tér,47.500685,19.046064,F00973,,,,2
+F00974,Széchenyi István tér,47.500892,19.046051,F00974,,,,2
+F00975,Eötvös tér,47.497852,19.047166,F00975,,,,2
+F00976,Eötvös tér,47.497969,19.047020,F00976,,,,2
 F00979,József nádor tér,47.498726,19.050168,F00979,,,,1
 F00980,Erzsébet tér,47.498645,19.051535,F00980,,,,1
 F00981,Hild tér,47.498978,19.050884,F00981,,,,1
@@ -2500,8 +2515,8 @@ F00990,Markó utca,47.509123,19.051164,F00990,,,,1
 F00991,Markó utca,47.508817,19.049518,F00991,,,,1
 F00996,Bajcsy-Zsilinszky út,47.499841,19.055259,F00996,,,CSF00996,2
 F00997,Bajcsy-Zsilinszky út,47.499937,19.055655,F00997,,,CSF00996,2
-F00999,Március 15. tér,47.490883,19.051614,F00999,,,,1
-F01000,Március 15. tér,47.490694,19.051654,F01000,,,,1
+F00999,Március 15. tér,47.490908,19.051612,F00999,,,,1
+F01000,Március 15. tér,47.490719,19.051652,F01000,,,,1
 F01001,Március 15. tér,47.490856,19.051667,F01001,,,,1
 F01004,Ferenciek tere M,47.492907,19.054534,F01004,,,,1
 F01005,Kálvin tér M,47.489219,19.061248,F01005,,,,2
@@ -2531,9 +2546,9 @@ F01031,Nyugati pályaudvar M (Podmaniczky utca),47.509276,19.058597,F01031,,merg
 F01032,Akácfa utca,47.502054,19.062989,F01032,,,,1
 F01033,Akácfa utca,47.502152,19.062963,F01033,,,,1
 F01034,Király utca / Erzsébet körút,47.503573,19.065950,F01034,,,,1
-F01035,Király utca / Erzsébet körút,47.503249,19.065830,F01035,,,,1
-F01036,Király utca / Erzsébet körút,47.503123,19.065419,F01036,,,,1
-F01037,Király utca / Erzsébet körút,47.502781,19.066202,F01037,,,,1
+F01035,Király utca / Erzsébet körút,47.503256,19.065856,F01035,,,,1
+F01036,Király utca / Erzsébet körút,47.503148,19.065418,F01036,,,,1
+F01037,Király utca / Erzsébet körút,47.502806,19.066187,F01037,,,,1
 F01038,Király utca / Erzsébet körút,47.503033,19.066188,F01038,,,,1
 F01039,Király utca / Erzsébet körút,47.502808,19.066042,F01039,,,,1
 F01040,Izabella utca / Király utca,47.505497,19.070171,F01040,,,,1
@@ -2565,17 +2580,17 @@ F01068,Ferdinánd híd (Izabella utca),47.510112,19.062341,F01068,,,,1
 F01069,Ferdinánd híd (Izabella utca),47.511695,19.062594,F01069,,,,1
 F01070,Ferdinánd híd (Izabella utca),47.511542,19.062713,F01070,,,,1
 F01071,Ferdinánd híd (Izabella utca),47.511101,19.062753,F01071,,,,1
-F01072,Ferdinánd híd (Izabella utca),47.511011,19.062660,F01072,,,,1
+F01072,Ferdinánd híd (Izabella utca),47.511037,19.062659,F01072,,,,1
 F01073,Munkácsy Mihály utca,47.515138,19.069963,F01073,,,,1
 F01074,Rippl-Rónai utca,47.514904,19.072299,F01074,,,,1
 F01075,Opera M,47.503158,19.060918,F01075,,,,1
 F01076,Opera M,47.503402,19.060269,F01076,,,,1
 F01077,Opera M,47.503169,19.060096,F01077,,,,1
-F01078,Opera M,47.502611,19.059671,F01078,,,,1
+F01078,Opera M,47.502600,19.059604,F01078,,,,1
 F01079,Opera,47.502197,19.058761,F01079,,,CSF01079,2
 F01080,Opera,47.502305,19.059161,F01080,,,CSF01079,2
-F01081,Oktogon M,47.505561,19.062871,F01081,,,,1
-F01082,Oktogon M,47.505939,19.062406,F01082,,,,1
+F01081,Oktogon M,47.505586,19.062870,F01081,,,,1
+F01082,Oktogon M,47.505964,19.062405,F01082,,,,1
 F01083,Oktogon M,47.505947,19.062619,F01083,,,,1
 F01084,Aradi utca (Oktogon M),47.506334,19.061597,F01084,,,,1
 F01085,Oktogon,47.504923,19.062823,F01085,,,CSF01085,2
@@ -2604,8 +2619,8 @@ F01107,Szinyei Merse utca,47.513035,19.065196,F01107,,,,1
 F01108,Károly körút (Astoria M),47.495515,19.060134,F01108,,,,1
 F01109,Nyár utca,47.498554,19.065510,F01109,,,,2
 F01110,Nagy Diófa utca,47.496278,19.065642,F01110,,,,2
-F01111,Wesselényi utca / Erzsébet körút,47.500325,19.068948,F01111,,,,1
-F01112,Wesselényi utca / Erzsébet körút,47.499830,19.069160,F01112,,,,1
+F01111,Wesselényi utca / Erzsébet körút,47.500350,19.068934,F01111,,,,1
+F01112,Wesselényi utca / Erzsébet körút,47.499856,19.069160,F01112,,,,1
 F01113,Wesselényi utca / Erzsébet körút,47.500224,19.069146,F01113,,,,1
 F01114,Wesselényi utca / Erzsébet körút,47.500072,19.068894,F01114,,,,1
 F01115,Wesselényi utca / Erzsébet körút,47.500928,19.069307,F01115,,,,1
@@ -2640,19 +2655,19 @@ F01145,Reiner Frigyes park,47.504241,19.089298,F01145,,,,1
 F01146,Reiner Frigyes park,47.503468,19.088169,F01146,,,,1
 F01149,Reiner Frigyes park,47.503495,19.089549,F01149,,,,1
 F01150,Verseny utca,47.501758,19.090822,F01150,,,,1
-F01151,Verseny utca,47.501875,19.090278,F01151,,,,1
+F01151,Verseny utca,47.501901,19.090544,F01151,,,,1
 F01154,Keleti pályaudvar M,47.501571,19.084836,F01154,,,,1
 F01159,Keleti pályaudvar M,47.500466,19.081955,F01159,,,,1
 F01160,Keleti pályaudvar M,47.500853,19.082181,F01160,,,,1
 F01161,Huszár utca,47.499199,19.077720,F01161,,,,1
 F01162,Huszár utca,47.499136,19.078384,F01162,,,,1
-F01163,Kiss József utca,47.497491,19.074043,F01163,,,,1
-F01164,Blaha Lujza tér M,47.496754,19.069849,F01164,,,,1
-F01165,Blaha Lujza tér M,47.496853,19.070168,F01165,,,,1
+F01163,Kiss József utca,47.497516,19.074043,F01163,,,,1
+F01164,Blaha Lujza tér M,47.496689,19.069530,F01164,,,,1
+F01165,Blaha Lujza tér M,47.496779,19.069862,F01165,,,,1
 F01166,Blaha Lujza tér M,47.497519,19.071495,F01166,,,,1
 F01167,Blaha Lujza tér M,47.497618,19.070619,F01167,,,,1
-F01168,Blaha Lujza tér M,47.496781,19.070699,F01168,,,,1
-F01169,Blaha Lujza tér M,47.496224,19.070672,F01169,,,,1
+F01168,Blaha Lujza tér M,47.496770,19.070725,F01168,,,,1
+F01169,Blaha Lujza tér M,47.496248,19.070671,F01169,,,,1
 F01170,Uránia,47.495586,19.065257,F01170,,,,1
 F01171,Uránia,47.495640,19.064965,F01171,,,,1
 F01172,Munkás utca,47.500188,19.079221,F01172,,,,1
@@ -2668,21 +2683,22 @@ F01182,Gumigyár,47.499688,19.095784,F01182,,,,1
 F01183,Gumigyár,47.499481,19.096089,F01183,,,,1
 F01184,Magdolna utca,47.491919,19.089102,F01184,,,,2
 F01185,Üllői út,47.487176,19.068213,F01185,,,,1
-F01186,Orczy tér,47.489401,19.089923,F01186,,,,2
-F01187,Orczy tér,47.489445,19.090494,F01187,,,,2
+F01186,Orczy tér,47.489434,19.089937,F01186,,,,2
+F01187,Orczy tér,47.489470,19.090495,F01187,,,,2
 F01188,Corvin-negyed,47.485424,19.070866,F01188,,,CSF01188,1
 F01189,Corvin-negyed,47.484862,19.072242,F01189,,,CSF01188,1
 F01190,Corvin-negyed M,47.486591,19.070416,F01190,,,,1
-F01191,Corvin-negyed M,47.485476,19.069898,F01191,,,,1
+F01191,Corvin-negyed M,47.485500,19.069924,F01191,,,,1
 F01192,Corvin-negyed M,47.485368,19.070946,F01192,,,,1
-F01194,Corvin-negyed M,47.486186,19.070057,F01194,,,,1
+F01193,Corvin-negyed M,47.485592,19.070959,F01193,,,,1
+F01194,Corvin-negyed M,47.486210,19.070057,F01194,,,,1
 F01195,Corvin-negyed M,47.485314,19.069579,F01195,,,,1
 F01196,Harminckettesek tere,47.489955,19.070881,F01196,,,,1
-F01197,Harminckettesek tere,47.489559,19.070589,F01197,,,,1
+F01197,Harminckettesek tere,47.489592,19.070589,F01197,,,,1
 F01198,Harminckettesek tere,47.489991,19.070563,F01198,,,,1
-F01199,Harminckettesek tere,47.490332,19.070815,F01199,,,,1
-F01200,Rákóczi tér M,47.492851,19.071188,F01200,,,,1
-F01201,Rákóczi tér M,47.492383,19.071016,F01201,,,,1
+F01199,Harminckettesek tere,47.490357,19.070841,F01199,,,,1
+F01200,Rákóczi tér M,47.492866,19.071187,F01200,,,,1
+F01201,Rákóczi tér M,47.492390,19.071001,F01201,,,,1
 F01202,Rákóczi tér M,47.492731,19.071280,F01202,,,,1
 F01203,Rákóczi tér M,47.492686,19.070935,F01203,,,,1
 F01204,Harminckettesek tere,47.489514,19.071306,F01204,,,,1
@@ -2744,7 +2760,7 @@ F01271,Hidegkuti Nándor Stadion,47.490040,19.108249,F01271,,,,2
 F01272,Hidegkuti Nándor Stadion,47.489644,19.108647,F01272,,,,1
 F01273,Hidegkuti Nándor Stadion,47.490993,19.109232,F01273,,,,1
 F01274,Hidegkuti Nándor Stadion,47.490192,19.109669,F01274,,,,2
-F01275,Hidegkuti Nándor Stadion,47.491164,19.108967,F01275,,,,1
+F01275,Hidegkuti Nándor Stadion,47.491216,19.108982,F01275,,,,1
 F01276,Ciprus utca,47.494033,19.109275,F01276,,,,1
 F01277,Ciprus utca,47.492837,19.108770,F01277,,,,1
 F01278,Asztalos Sándor út,47.490096,19.105038,F01278,,,,2
@@ -2755,7 +2771,7 @@ F01282,Népliget,47.475479,19.099291,F01282,,,CSF01282,1
 F01283,Népliget,47.474913,19.100672,F01283,,,CSF01282,1
 F01284,Népliget M,47.474583,19.100816,F01284,,,,1
 F01285,Népliget M,47.475375,19.099610,F01285,,,,1
-F01286,Népliget M,47.475879,19.098907,F01286,,,,1
+F01286,Népliget M,47.475893,19.098895,F01286,,,,1
 F01289,Kálvin tér,47.490170,19.060640,F01289,,,CS056227,1
 F01290,Kálvin tér,47.489490,19.061920,F01290,,,CS056227,1
 F01291,Blaha Lujza tér,47.496638,19.068841,F01291,,,CSF01291,2
@@ -2773,24 +2789,24 @@ F01303,II. János Pál pápa tér M,47.494567,19.076855,F01303,,,,1
 F01307,Dologház utca,47.496535,19.083187,F01307,,,,2
 F01309,Dologház utca,47.496445,19.083120,F01309,,,,2
 F01310,Dologház utca,47.496364,19.083399,F01310,,,,2
-F01311,Keleti pályaudvar M,47.499315,19.082552,F01311,,,,2
+F01311,Keleti pályaudvar M,47.499070,19.082552,F01311,,,,2
 F01314,Keleti pályaudvar M,47.500277,19.080999,F01314,,,,1
 F01316,Puskás Ferenc Stadion M,47.499819,19.103708,F01316,,,,1
 F01317,Puskás Ferenc Stadion M,47.500098,19.103522,F01317,,,,1
 F01319,Puskás Ferenc Stadion M,47.500654,19.107850,F01319,,,,1
 F01320,Puskás Ferenc Stadion M,47.500815,19.108367,F01320,,,,1
 F01321,Puskás Ferenc Stadion M,47.500113,19.109508,F01321,,,,1
-F01322,Puskás Ferenc Stadion M,47.500387,19.108151,F01322,,,,1
-F01323,Puskás Ferenc Stadion M,47.500950,19.108089,F01323,,,,1
-F01324,Puskás Ferenc Stadion,47.500213,19.104767,F01324,,merged,CS004521,1
-F01325,Puskás Ferenc Stadion,47.500174,19.106381,F01325,,merged,CS004521,1
+F01322,Puskás Ferenc Stadion M,47.500418,19.108157,F01322,,,,1
+F01323,Puskás Ferenc Stadion M,47.500966,19.108091,F01323,,,,1
+F01324,Puskás Ferenc Stadion,47.500213,19.104767,F01324,,,CSF01324,1
+F01325,Puskás Ferenc Stadion,47.500174,19.106381,F01325,,,CSF01324,1
 F01326,Hős utca,47.496776,19.109305,F01326,,,,1
 F01327,Hős utca,47.496777,19.108787,F01327,,,,1
-F01328,Hős utca,47.496282,19.109135,F01328,,,,1
-F01329,Hős utca,47.495706,19.109078,F01329,,,,1
+F01328,Hős utca,47.496271,19.109134,F01328,,,,1
+F01329,Hős utca,47.495722,19.109080,F01329,,,,1
 F01330,Teleki László tér,47.493604,19.081884,F01330,,,,1
 F01331,Teleki László tér,47.493549,19.082787,F01331,,,,1
-F01333,Kőris utca,47.487152,19.089616,F01333,,,,1
+F01333,Kőris utca,47.487168,19.089219,F01333,,,,1
 F01334,Orczy út,47.488897,19.091276,F01334,,,,1
 F01335,Keleti pályaudvar,47.499778,19.081282,F01335,,,CS056233,2
 F01336,Keleti pályaudvar,47.499683,19.082881,F01336,,,CS056233,2
@@ -2799,9 +2815,9 @@ F01339,Ráday utca,47.485548,19.065930,F01339,,,,1
 F01340,Közraktár utca,47.483912,19.062454,F01340,,,,1
 F01341,Koppány utca,47.466162,19.081204,F01341,,,,2
 F01342,Koppány utca,47.465989,19.081497,F01342,,,,2
-F01343,Zsil utca,47.482949,19.062719,F01343,,,,2
+F01343,Zsil utca,47.482946,19.062731,F01343,,,,2
 F01345,Lónyay utca,47.482418,19.064775,F01345,,,,1
-F01346,Zsil utca,47.483012,19.062440,F01346,,,,2
+F01346,Zsil utca,47.483036,19.062439,F01346,,,,2
 F01349,Kén utca,47.457031,19.089142,F01349,,,,2
 F01350,Kén utca,47.457319,19.089142,F01350,,,,2
 F01351,Beöthy utca,47.460370,19.082460,F01351,,,,1
@@ -2815,43 +2831,43 @@ F01360,Soroksári út 158.,47.447415,19.090792,F01360,,,,1
 F01363,Börzsöny utca,47.467085,19.111844,F01363,,,,1
 F01364,Börzsöny utca,47.466797,19.112003,F01364,,,,1
 F01365,Merényi Gusztáv Kórház,47.467891,19.101154,F01365,,,,1
-F01366,Epreserdő utca,47.459683,19.111743,F01366,,,,1
-F01367,Epreserdő utca,47.459755,19.111517,F01367,,,,1
+F01366,Epreserdő utca,47.459705,19.111745,F01366,,,,1
+F01367,Epreserdő utca,47.459786,19.111520,F01367,,,,1
 F01368,Aranyvirág sétány,47.467689,19.109816,F01368,,,,1
 F01369,Aranyvirág sétány,47.467563,19.109219,F01369,,,,1
 F01370,Nagykőrösi út / Határ út,47.454618,19.113036,F01370,,,,1
 F01371,Nagykőrösi út / Határ út,47.454285,19.114295,F01371,,,,1
 F01372,Boráros tér H,47.480718,19.067693,F01372,,,,1
-F01373,Boráros tér H,47.480125,19.066075,F01373,,,,2
-F01374,Boráros tér H,47.480376,19.066698,F01374,,,,2
+F01373,Boráros tér H,47.480149,19.066074,F01373,,,,2
+F01374,Boráros tér H,47.480400,19.066697,F01374,,,,2
 F01375,Boráros tér H,47.480323,19.066048,F01375,,,,2
 F01376,Boráros tér H,47.479621,19.067242,F01376,,,,2
-F01378,Mester utca / Ferenc körút,47.482184,19.068463,F01378,,,,1
+F01378,Mester utca / Ferenc körút,47.482199,19.068463,F01378,,,,1
 F01379,Mester utca / Ferenc körút,47.481608,19.068702,F01379,,,,2
-F01380,Mester utca / Ferenc körút,47.482751,19.068848,F01380,,,,1
-F01381,Bokréta utca,47.479503,19.072230,F01381,,,,2
+F01380,Mester utca / Ferenc körút,47.482775,19.068848,F01380,,,,1
+F01381,Bokréta utca,47.479527,19.072243,F01381,,,,2
 F01382,Bokréta utca,47.479116,19.072655,F01382,,,,2
-F01384,Haller utca / Soroksári út,47.473981,19.070649,F01384,,,,1
+F01384,Haller utca / Soroksári út,47.474022,19.070622,F01384,,,,1
 F01386,Haller utca / Soroksári út,47.475627,19.069788,F01386,,,,1
 F01388,Haller utca / Soroksári út,47.475285,19.071658,F01388,,,,1
-F01390,Haller utca / Mester utca,47.476021,19.076355,F01390,,,,2
-F01391,Haller utca / Mester utca,47.476057,19.076819,F01391,,,,2
-F01393,Haller utca / Mester utca,47.475625,19.077774,F01393,,,,2
-F01394,Haller utca / Mester utca,47.475906,19.077636,F01394,,,,2
+F01390,Haller utca / Mester utca,47.476054,19.076354,F01390,,,,2
+F01391,Haller utca / Mester utca,47.476099,19.076819,F01391,,,,2
+F01393,Haller utca / Mester utca,47.475649,19.077774,F01393,,,,2
+F01394,Haller utca / Mester utca,47.475928,19.077615,F01394,,,,2
 F01395,Haller utca / Mester utca,47.476219,19.078544,F01395,,,,1
-F01396,Müpa - Nemzeti Színház H,47.470958,19.073182,F01396,,,,1
-F01397,Müpa - Nemzeti Színház H,47.471255,19.072969,F01397,,,,1
+F01396,Müpa - Nemzeti Színház H,47.470972,19.073181,F01396,,,,1
+F01397,Müpa - Nemzeti Színház H,47.471269,19.072969,F01397,,,,1
 F01398,Vágóhíd utca,47.473403,19.079922,F01398,,,,2
 F01399,Vágóhíd utca,47.473151,19.080293,F01399,,,,2
 F01400,Török Pál utca,47.487779,19.061075,F01400,,,,1
-F01401,Közvágóhíd H,47.467504,19.075899,F01401,,merged,MERGED_F01401,2
-F01402,Közvágóhíd H,47.467504,19.075899,F01401,,merged,MERGED_F01401,2
+F01401,Közvágóhíd H,47.467527,19.075886,F01401,,merged,MERGED_F01401,2
+F01402,Közvágóhíd H,47.467527,19.075886,F01401,,merged,MERGED_F01401,2
 F01403,Közvágóhíd H,47.467873,19.075740,F01403,,,,2
 F01404,Közvágóhíd H,47.467684,19.076523,F01404,,,082357,1
 F01407,Közvágóhíd H (Kvassay Jenő út),47.466218,19.076257,F01407,,,,1
 F01408,"József Attila ltp., Távíró utca",47.460599,19.114913,F01408,,,,1
-F01411,Nemzeti Atlétikai Stadion,47.463142,19.072687,F01411,,,,1
-F01412,Nemzeti Atlétikai Stadion,47.463475,19.073138,F01412,,,,1
+F01411,Nemzeti Atlétikai Stadion,47.465036,19.073484,F01411,,,,1
+F01412,Nemzeti Atlétikai Stadion,47.464154,19.073350,F01412,,,,1
 F01413,Magyar Aszfalt,47.459702,19.087871,F01413,,,,2
 F01414,Magyar Aszfalt,47.459828,19.087645,F01414,,,,2
 F01417,Kén utca H (Illatos út),47.454819,19.087509,F01417,,,,1
@@ -2874,29 +2890,29 @@ F01434,Gubacsi út / Határ út,47.444364,19.097233,F01434,,,,1
 F01435,Gubacsi út / Határ út,47.444525,19.097498,F01435,,,,1
 F01436,Gubacsi út / Határ út,47.444067,19.096928,F01436,,,,2
 F01437,Gubacsi út / Határ út,47.444292,19.096530,F01437,,,,2
-F01438,Gubacsi út / Határ út,47.444507,19.097750,F01438,,,,1
-F01439,Gubacsi út / Határ út,47.443779,19.096742,F01439,,,,1
+F01438,Gubacsi út / Határ út,47.444529,19.097752,F01438,,,,1
+F01439,Gubacsi út / Határ út,47.443800,19.096743,F01439,,,,1
 F01440,Határ út,47.442053,19.094990,F01440,,,,1
 F01441,Baross utca,47.441549,19.095056,F01441,,,,1
-F01442,Ősz utca,47.446050,19.100220,F01442,,,,1
-F01443,Ősz utca,47.446197,19.100297,F01443,,merged,MERGED_F01443,1
-F01444,Jókai Mór utca / Határ út,47.449010,19.104503,F01444,,,,1
-F01445,Jókai Mór utca / Határ út,47.448642,19.104145,F01445,,,,1
+F01442,Ősz utca,47.446039,19.100206,F01442,,,,1
+F01443,Ősz utca,47.446219,19.100299,F01443,,,,1
+F01444,Jókai Mór utca / Határ út,47.449023,19.104505,F01444,,,,1
+F01445,Jókai Mór utca / Határ út,47.448663,19.104147,F01445,,,,1
 F01446,Jókai Mór utca / Határ út,47.448560,19.104980,F01446,,,,2
-F01447,Mártírok útja / Határ út,47.452039,19.109095,F01447,,,,1
-F01448,Mártírok útja / Határ út,47.451841,19.108975,F01448,,,,1
+F01447,Mártírok útja / Határ út,47.452052,19.109070,F01447,,,,1
+F01448,Mártírok útja / Határ út,47.451863,19.108991,F01448,,,,1
 F01449,Mártírok útja / Határ út,47.450887,19.110592,F01449,,,,1
 F01450,Mártírok útja / Határ út,47.451814,19.109439,F01450,,,,1
 F01451,Nagykőrösi út / Határ út,47.455418,19.114695,F01451,,,,1
-F01452,Nagykőrösi út / Határ út,47.455443,19.114062,F01452,,,,1
+F01452,Nagykőrösi út / Határ út,47.455431,19.114034,F01452,,,,1
 F01453,Nagykőrösi út / Határ út,47.455706,19.113714,F01453,,,,1
-F01454,Nagykőrösi út / Határ út,47.455742,19.114682,F01454,,,,1
+F01454,Nagykőrösi út / Határ út,47.455764,19.114684,F01454,,,,1
 F01455,Mészáros Lőrinc utca,47.459749,19.120986,F01455,,,,1
 F01456,Mészáros Lőrinc utca,47.459300,19.120044,F01456,,,,1
 F01457,Mészáros Lőrinc utca,47.459543,19.120283,F01457,,,,2
 F01458,Mészáros Lőrinc utca,47.459714,19.120363,F01458,,,,2
 F01459,Határ út M,47.464405,19.126338,F01459,,,,1
-F01460,Határ út M,47.464567,19.126152,008490,,merged,MERGED_008490,1
+F01460,Határ út M,47.464878,19.125957,F01460,,,,1
 F01461,Határ út M,47.465008,19.126180,F01461,,,,1
 F01462,Határ út M,47.464963,19.126073,F01462,,,,1
 F01463,Kőér utcai uszoda,47.466517,19.126213,F01463,,,,2
@@ -2917,26 +2933,26 @@ F01479,Gyáli út,47.464706,19.103857,F01479,,,,1
 F01481,Közterületfenntartó Zrt.,47.468472,19.108092,F01481,,,,1
 F01482,Közterületfenntartó Zrt.,47.467691,19.106513,F01482,,,,1
 F01483,Közterületfenntartó Zrt.,47.468419,19.107270,F01483,,,,1
-F01484,Közterületfenntartó Zrt.,47.467832,19.107657,F01484,,,,1
-F01485,Közterületfenntartó Zrt.,47.468140,19.107681,F01485,,,,1
+F01484,Közterületfenntartó Zrt.,47.467839,19.107669,F01484,,,,1
+F01485,Közterületfenntartó Zrt.,47.468163,19.107683,F01485,,,,1
 F01486,Közterületfenntartó Zrt.,47.468103,19.108291,F01486,,,,1
 F01487,Ifjúmunkás utca,47.468147,19.110997,F01487,,,,1
 F01488,Ifjúmunkás utca,47.468273,19.110944,F01488,,,,1
-F01489,Ecseri út M,47.470404,19.111026,F01489,,,,1
-F01490,Ecseri út M,47.470494,19.110787,F01490,,,,1
-F01491,Ecseri út M,47.471087,19.109120,F01491,,,,1
+F01489,Ecseri út M,47.470859,19.111121,F01489,,,,1
+F01490,Ecseri út M,47.470985,19.110896,F01490,,,,1
+F01491,Ecseri út M,47.471085,19.109105,F01491,,,,1
 F01492,Péceli utca,47.469484,19.099352,F01492,,,,1
 F01493,Ecseri út,47.471127,19.110331,F01493,,,CSF01493,1
 F01494,Ecseri út,47.470529,19.111646,F01494,,,CSF01493,1
-F01495,Ecseri út M,47.471260,19.109422,F01495,,,,1
+F01495,Ecseri út M,47.471301,19.109437,F01495,,,,1
 F01496,Ecseri út M,47.470863,19.111889,F01496,,,,1
 F01497,Ecseri út M,47.470881,19.111132,F01497,,,,1
-F01498,Albert Flórián út,47.472390,19.095534,F01498,,,,1
-F01499,Albert Flórián út,47.472723,19.096118,F01499,,,,1
+F01498,Albert Flórián út,47.472423,19.095522,F01498,,,,1
+F01499,Albert Flórián út,47.472746,19.096119,F01499,,,,1
 F01500,Albert Flórián út,47.472525,19.095428,F01500,,,,1
 F01501,Albert Flórián út,47.473586,19.097154,F01501,,,,1
-F01502,Ferencváros vá. - Málenkij Robot Eh.,47.470305,19.089313,F01502,,,,1
-F01503,Ferencváros vá. - Málenkij Robot Eh.,47.470172,19.088529,F01503,,,,1
+F01502,Ferencváros vá. - Málenkij Robot Eh.,47.470293,19.089285,F01502,,,,1
+F01503,Ferencváros vá. - Málenkij Robot Eh.,47.470204,19.088529,F01503,,,,1
 F01504,Ferencváros vá. - Málenkij Robot Eh.,47.470693,19.090147,F01504,,,,1
 F01505,Ferencváros vá. - Málenkij Robot Eh.,47.470028,19.088727,F01505,,,,1
 F01506,Mester utca / Könyves Kálmán körút,47.469814,19.082997,F01506,,,,2
@@ -2950,20 +2966,20 @@ F01513,Balázs Béla utca,47.476668,19.081661,F01513,,,,1
 F01514,Boráros tér H,47.479945,19.067547,F01514,,,,2
 F01515,Boráros tér H,47.479495,19.067865,F01515,,,,2
 F01516,Boráros tér H (Közraktár utca),47.481600,19.064894,F01516,,,,1
-F01518,Boráros tér H,47.480043,19.066075,F01518,,,,2
-F01519,Boráros tér H,47.479693,19.066300,F01519,,,,2
-F01525,Csengettyű utca,47.463570,19.109479,F01525,,,,1
-F01526,Csengettyű utca,47.463444,19.109691,F01526,,,,1
+F01518,Boráros tér H,47.480077,19.066074,F01518,,,,2
+F01519,Boráros tér H,47.479726,19.066299,F01519,,,,2
+F01525,Csengettyű utca,47.463592,19.109481,F01525,,,,1
+F01526,Csengettyű utca,47.463466,19.109693,F01526,,,,1
 F01527,Közvágóhíd H,47.468917,19.073724,F01527,,,,2
 F01529,Népliget M,47.475905,19.099862,F01529,,,,1
-F01531,Balkán utca,47.474062,19.116058,F01531,,,,1
-F01532,Balkán utca,47.473748,19.115739,F01532,,,,1
+F01531,Balkán utca,47.474086,19.116060,F01531,,,,1
+F01532,Balkán utca,47.473762,19.115768,F01532,,,,1
 F01533,Sporttelep,47.478782,19.113665,F01533,,,,1
 F01534,Sporttelep,47.478921,19.112867,F01534,,,,1
-F01535,Fertő utca / Bihari utca,47.476066,19.119165,F01535,,,,1
+F01535,Fertő utca / Bihari utca,47.476099,19.119168,F01535,,,,1
 F01536,Fertő utca / Bihari utca,47.476351,19.118319,F01536,,,,1
-F01537,Fertő utca / Bihari utca,47.475256,19.120066,F01537,,,,1
-F01538,Fertő utca / Bihari utca,47.475742,19.118819,F01538,,,,1
+F01537,Fertő utca / Bihari utca,47.475279,19.120069,F01537,,,,1
+F01538,Fertő utca / Bihari utca,47.475766,19.118849,F01538,,,,1
 F01539,Basa utca,47.470602,19.126533,F01539,,,,1
 F01540,Basa utca,47.470292,19.126827,F01540,,,,1
 F01541,Határ út,47.466285,19.124821,F01541,,,CSF01541,1
@@ -2998,9 +3014,9 @@ F01569,Kőbánya alsó vasútállomás,47.483437,19.126485,F01569,,,,1
 F01570,Kőbánya alsó vasútállomás,47.483500,19.126220,F01570,,,,1
 F01571,Kőbánya alsó vasútállomás (Mázsa tér),47.482879,19.125715,F01571,,,,1
 F01572,Kőbánya alsó vasútállomás (Mázsa tér),47.482564,19.126059,F01572,,,,1
-F01574,Kőbánya alsó vasútállomás (Mázsa tér),47.481718,19.127066,F01574,,,,1
-F01575,Kocsis Sándor Sportközpont,47.478717,19.123480,F01575,,,,1
-F01576,Kocsis Sándor Sportközpont,47.478878,19.123878,F01576,,,,1
+F01574,Kőbánya alsó vasútállomás (Mázsa tér),47.481742,19.127070,F01574,,,,1
+F01575,Kocsis Sándor Sportközpont,47.478758,19.123470,F01575,,,,1
+F01576,Kocsis Sándor Sportközpont,47.478902,19.123895,F01576,,,,1
 F01577,Richter Gedeon utca,47.473762,19.135266,F01577,,,,2
 F01578,Richter Gedeon utca,47.473663,19.135133,F01578,,,,2
 F01579,Gyömrői út,47.471598,19.141855,F01579,,,,1
@@ -3044,8 +3060,8 @@ F01619,Sörgyár,47.491733,19.144770,F01619,,,,2
 F01620,Sörgyár,47.491941,19.144346,F01620,,,,2
 F01621,Sörgyár,47.491229,19.146057,F01621,,,,1
 F01622,Sörgyár,47.492084,19.144598,F01622,,,,1
-F01623,Élessarok,47.491037,19.138015,F01623,,,,1
-F01624,Élessarok,47.491495,19.138759,F01624,,,,1
+F01623,Élessarok,47.491071,19.138019,F01623,,,,1
+F01624,Élessarok,47.491529,19.138750,F01624,,,,1
 F01625,Élessarok,47.491828,19.138287,F01625,,,,2
 F01626,Élessarok,47.491801,19.138666,F01626,,,,2
 F01627,Élessarok,47.491181,19.137962,F01627,,,,1
@@ -3055,19 +3071,19 @@ F01630,Kőrösi Csoma Sándor út,47.488852,19.137427,F01630,,,,1
 F01631,Harmat utca,47.488384,19.137877,F01631,,,,1
 F01635,Kőbánya alsó vasútállomás,47.483391,19.128037,F01635,,,,2
 F01636,Kőbánya alsó vasútállomás,47.483652,19.127839,F01636,,,,2
-F01637,Hízlaló tér,47.473272,19.122868,F01637,,,,1
+F01637,Hízlaló tér,47.472290,19.124243,F01637,,,,1
 F01638,Hízlaló tér,47.472511,19.123644,F01638,,,,2
 F01639,Liget tér,47.481672,19.128791,F01639,,,,2
 F01640,Vaspálya utca,47.481780,19.128460,F01640,,,,2
 F01641,Liget tér,47.482795,19.130358,F01641,,,,1
 F01642,Liget tér,47.483074,19.131221,F01642,,,,1
 F01644,Kápolna utca,47.482004,19.130543,F01644,,,,1
-F01645,Kőbánya alsó vasútállomás,47.482464,19.128487,F01645,,,,1
-F01646,Kőbánya alsó vasútállomás,47.482355,19.129429,F01646,,,,1
+F01645,Kőbánya alsó vasútállomás,47.482479,19.128504,F01645,,,,1
+F01646,Kőbánya alsó vasútállomás,47.482370,19.129419,F01646,,,,1
 F01647,Kápolna utca,47.482256,19.130424,F01647,,,,1
 F01648,Szent László tér,47.485277,19.131424,F01648,,,,2
-F01649,Szent László tér,47.484998,19.131569,F01649,,,,1
-F01650,Szent László tér,47.485304,19.131729,F01650,,,,1
+F01649,Szent László tér,47.485022,19.131560,F01649,,,,1
+F01650,Szent László tér,47.485319,19.131733,F01650,,,,1
 F01651,Szent László tér,47.484521,19.131635,F01651,,,,1
 F01652,Szent László tér,47.485907,19.130668,F01652,,,,1
 F01653,Szent László tér,47.485925,19.131093,F01653,,,,1
@@ -3160,12 +3176,12 @@ F01744,Hős utca,47.497564,19.116008,F01744,,,,1
 F01745,Hős utca,47.496862,19.116366,F01745,,,,1
 F01746,Expó tér,47.495295,19.119695,F01746,,,,2
 F01749,Örs vezér tere,47.502922,19.135963,F01749,,,CSF01749,1
-F01751,Örs vezér tere M+H,47.503002,19.135420,F01751,,,,1
+F01751,"Budapest, Örs vezér tere",47.503002,19.135420,F01751,,,,1
 F01752,Örs vezér tere M+H,47.502506,19.136269,F01752,,,,1
-F01754,Örs vezér tere M+H,47.503450,19.137173,F01754,,,,2
+F01754,"Budapest, Örs vezér tere",47.503450,19.137173,F01754,,,,2
 F01755,Örs vezér tere M+H,47.504017,19.136271,F01755,,,,1
 F01756,Örs vezér tere M+H,47.504287,19.136192,F01756,,,,1
-F01757,Örs vezér tere M+H,47.504098,19.136457,F01757,,,,1
+F01757,Örs vezér tere M+H,47.504115,19.136435,F01757,,,,1
 F01769,Gyakorló köz,47.501621,19.141576,F01769,,,,2
 F01770,Gyakorló köz,47.501656,19.142691,F01770,,,,2
 F01771,Gyakorló köz,47.503832,19.143306,F01771,,,,1
@@ -3179,8 +3195,8 @@ F01778,Nagyicce H,47.506832,19.167151,F01778,,,,1
 F01779,Albertirsai köz,47.493870,19.138590,F01779,,,,1
 F01780,Terebesi utca,47.493400,19.141283,F01780,,,,1
 F01781,Terebesi utca,47.494246,19.140449,F01781,,,,2
-F01782,Terebesi utca,47.494129,19.141032,F01782,,,,1
-F01783,Terebesi utca,47.494687,19.140349,F01783,,,,1
+F01782,Terebesi utca,47.494163,19.141024,F01782,,,,1
+F01783,Terebesi utca,47.494703,19.140334,F01783,,,,1
 F01784,EGIS Gyógyszergyár,47.500495,19.153719,F01784,,,,1
 F01785,EGIS Gyógyszergyár,47.499236,19.153835,F01785,,,,1
 F01786,MÁV-telep,47.493596,19.163631,F01786,,,,1
@@ -3217,8 +3233,8 @@ F01822,Téglavető utca,47.489579,19.160385,F01822,,,,1
 F01823,Téglavető utca,47.489823,19.159045,F01823,,,,1
 F01824,Orion,47.489834,19.156564,F01824,,,,1
 F01825,Orion,47.490115,19.154839,F01825,,,,1
-F01826,Ónodi utca,47.489231,19.136141,F01826,,,,1
-F01827,Ónodi utca,47.488602,19.135237,F01827,,,,1
+F01826,Ónodi utca,47.489255,19.136145,F01826,,,,1
+F01827,Ónodi utca,47.488626,19.135241,F01827,,,,1
 F01828,Ónodi utca,47.488126,19.134546,F01828,,,,1
 F01829,Kocka utca,47.484879,19.155970,F01829,,,,2
 F01830,Kocka utca,47.484933,19.155718,F01830,,,,2
@@ -3253,15 +3269,15 @@ F01858,Hungaropharma,47.481847,19.204470,F01858,,,,1
 F01859,Hungaropharma,47.482352,19.203344,F01859,,,,1
 F01860,Fehér úti ipari park,47.499537,19.137432,F01860,,,,1
 F01861,Fehér úti ipari park,47.499448,19.137140,F01861,,,,1
-F01862,Fehér úti ipari park,47.499897,19.137353,F01862,,,,1
-F01863,Fehér úti ipari park,47.499510,19.137564,F01863,,,,1
+F01862,Fehér úti ipari park,47.499904,19.137357,F01862,,,,1
+F01863,Fehér úti ipari park,47.499544,19.137569,F01863,,,,1
 F01864,Aluljáró (Rézvirág utca),47.486714,19.203211,F01864,,,,1
 F01865,Aluljáró (Rézvirág utca),47.486625,19.202759,F01865,,,,1
 F01866,Új köztemető (Kozma utca),47.475097,19.178223,F01866,,,,2
 F01867,Új köztemető (Kozma utca),47.474630,19.178129,F01867,,,,2
 F01868,Tűzoltóság,47.478965,19.200150,F01868,,,,2
 F01869,Tűzoltóság,47.479037,19.200230,F01869,,,,2
-F01870,Felsőcsatári út,47.458019,19.176418,F01870,,,,1
+F01870,Felsőcsatári út,47.458041,19.176425,F01870,,,,1
 F01872,Kollégium,47.483985,19.192495,F01872,,,,2
 F01873,Kollégium,47.483804,19.192787,F01873,,,,2
 F01874,Ezüstfa utca,47.479762,19.195933,F01874,,,,2
@@ -3307,10 +3323,10 @@ F01917,Őrmezei út,47.454767,19.018553,F01917,,,,1
 F01918,Igmándi utca,47.456657,19.020010,F01918,,,,1
 F01919,Zelk Zoltán út / Neszmélyi út,47.458266,19.019360,F01919,,,,2
 F01920,Menyecske utca,47.459766,19.017273,F01920,,,,2
-F01921,Menyecske utca,47.460251,19.017379,F01921,,,,2
+F01921,Menyecske utca,47.460251,19.017379,F01921,,merged,MERGED_F01921,2
 F01922,Kérő utca,47.461924,19.015866,F01922,,,,2
-F01923,Kérő utca,47.462034,19.016320,F01923,,,,1
-F01924,Neszmélyi út,47.460172,19.015035,F01924,,,,1
+F01923,Kérő utca,47.462034,19.016320,F01923,,merged,MERGED_F01923,1
+F01924,Neszmélyi út,47.459731,19.016044,F01924,,,,1
 F01925,Sasadi út,47.466954,19.015972,F01925,,,,1
 F01926,Sasadi út,47.467215,19.016596,F01926,,,,1
 F01927,Sasadi út,47.465155,19.015363,F01927,,,,1
@@ -3334,13 +3350,13 @@ F01945,Gépész utca,47.453320,19.021537,F01945,,,,1
 F01946,Gépész utca,47.452988,19.023234,F01946,,,,1
 F01947,Hajtány sor,47.455281,19.024042,F01947,,,,1
 F01948,Hajtány sor,47.456334,19.023790,F01948,,,,1
-F01951,Than Károly utca,47.460921,19.025339,F01951,,,,1
-F01952,Borszéki utca,47.458510,19.023749,F01952,,,,1
+F01951,Than Károly utca,47.460943,19.025336,F01951,,,,1
+F01952,Borszéki utca,47.458541,19.023745,F01952,,,,1
 F01955,Bikás park M,47.463558,19.032845,F01955,,,,1
 F01956,Bikás park M,47.463783,19.032872,F01956,,,,1
 F01958,Bikás park M,47.464277,19.033826,F01958,,,,1
 F01959,Bikás park M,47.464205,19.033561,F01959,,,,1
-F01960,Bornemissza tér,47.458413,19.033576,F01960,,,,1
+F01960,Bornemissza tér,47.458435,19.033573,F01960,,,,1
 F01962,Bornemissza tér,47.458278,19.033324,F01962,,,,1
 F01964,Csurgói út,47.455157,19.033232,F01964,,,,1
 F01965,Csurgói út,47.453979,19.033445,F01965,,,,1
@@ -3360,16 +3376,16 @@ F01981,Galvani utca,47.455374,19.051970,F01981,,,,1
 F01982,Hengermalom út,47.461274,19.051692,F01982,,,,1
 F01983,Hengermalom út,47.461031,19.051798,F01983,,,,1
 F01984,Budafoki út / Dombóvári út,47.468595,19.052979,F01984,,,,1
-F01985,Budafoki út / Dombóvári út,47.469302,19.053773,F01985,,,,1
+F01985,Budafoki út / Dombóvári út,47.469788,19.053309,F01985,,,,1
 F01986,Budafoki út / Szerémi sor,47.474361,19.052621,F01986,,,,1
 F01988,Budafoki út / Szerémi sor,47.473623,19.053178,F01988,,,,1
-F01989,Budafoki út / Szerémi sor,47.473677,19.052807,F01989,,,,1
+F01989,Budafoki út / Szerémi sor,47.473691,19.052818,F01989,,,,1
 F01990,Budafoki út / Szerémi sor,47.473875,19.052847,F01990,,,,1
 F01991,Budafoki út / Szerémi sor,47.472823,19.052568,F01991,,,,1
-F01992,Budafoki út / Szerémi sor,47.474091,19.053736,F01992,,,,1
+F01992,Budafoki út / Szerémi sor,47.474114,19.053747,F01992,,,,1
 F01995,Újbuda-központ M,47.473785,19.047395,F01995,,,,1
 F01997,Újbuda-központ M,47.474467,19.046478,F01997,,,,1
-F01998,Újbuda-központ M,47.474045,19.046863,F01998,,,,1
+F01998,Újbuda-központ M,47.474042,19.046862,F01998,,,,1
 F01999,Újbuda-központ M,47.474800,19.046664,F01999,,,,1
 F02000,Újbuda-központ M,47.474037,19.048469,F02000,,,,1
 F02002,Hauszmann Alajos utca,47.467917,19.043997,F02002,,,,1
@@ -3402,7 +3418,7 @@ F02030,Budafok kocsiszín,47.441324,19.036498,F02030,,,,2
 F02031,Budafok kocsiszín,47.441414,19.036378,F02031,,,,1
 F02032,Tétényi út 30.,47.466355,19.034157,F02032,,,,1
 F02033,Tétényi út 30.,47.466328,19.033866,F02033,,,,1
-F02034,Szent Imre Kórház,47.469422,19.033719,F02034,,,,1
+F02034,Szent Imre Kórház,47.469445,19.033716,F02034,,,,1
 F02035,Szent Imre Kórház,47.468064,19.033839,F02035,,,,1
 F02037,Szent Gellért-templom,47.469151,19.024898,F02037,,,,1
 F02038,Szent Gellért-templom,47.468566,19.023744,F02038,,,,1
@@ -3412,7 +3428,7 @@ F02041,Csóka utca (Karinthy Színház),47.470734,19.028532,F02041,,,,1
 F02042,Csóka utca (Karinthy Színház),47.470698,19.028585,F02042,,,,1
 F02043,Csóka utca (Karinthy Színház),47.470752,19.029129,F02043,,,,1
 F02044,Karolina út,47.471473,19.033466,F02044,,,,1
-F02045,Karolina út,47.472696,19.033028,F02045,,,,1
+F02045,Karolina út,47.472719,19.033025,F02045,,,,1
 F02046,Karolina út,47.472838,19.033676,F02046,,,,1
 F02047,Karolina út,47.472696,19.033201,F02047,,,,1
 F02048,Karolina út,47.473371,19.035389,F02048,,,,1
@@ -3455,10 +3471,10 @@ F02084,Márton Áron tér,47.481923,18.998861,F02084,,,,1
 F02085,Márton Áron tér,47.481977,18.999233,F02085,,,,1
 F02086,Zajzon utca,47.479837,19.000721,F02086,,,,2
 F02087,Zajzon utca,47.479379,19.001132,F02087,,,,2
-F02088,Tömös utca,47.477895,19.002354,F02088,,,,1
+F02088,Tömös utca,47.477910,19.002349,F02088,,,,1
 F02089,Tömös utca,47.477581,19.002766,F02089,,,,1
-F02090,Nagyszalonta köz,47.475252,19.004373,F02090,,,,1
-F02091,Nagyszalonta köz,47.475512,19.003882,F02091,,,,1
+F02090,Nagyszalonta köz,47.475274,19.004363,F02090,,,,1
+F02091,Nagyszalonta köz,47.475526,19.003867,F02091,,,,1
 F02092,Bereck utca,47.473104,19.008248,F02092,,,,2
 F02093,Bereck utca,47.473670,19.007651,F02093,,,,1
 F02094,Sümegvár utca,47.469732,19.012867,F02094,,,,1
@@ -3492,7 +3508,7 @@ F02121,Diószegi út (Vérellátó Szolgálat),47.478434,19.031872,F02121,,,,1
 F02122,Diószegi út (Vérellátó Szolgálat),47.478614,19.031487,F02122,,,,1
 F02123,Vincellér utca,47.476663,19.035720,F02123,,,,1
 F02124,Vincellér utca,47.476285,19.035932,F02124,,,,1
-F02125,Szüret utca,47.480341,19.035772,F02125,,,,1
+F02125,Szüret utca,47.480365,19.035769,F02125,,,,1
 F02126,Szüret utca,47.480283,19.036129,F02126,,,,1
 F02127,Szüret utca,47.480185,19.036537,F02127,,,,1
 F02128,Szüret utca,47.479955,19.037364,F02128,,,,1
@@ -3504,7 +3520,7 @@ F02133,Balogh Tihamér utca,47.481898,19.042989,F02133,,,,1
 F02134,Kelenhegyi lépcső,47.481241,19.045152,F02134,,,,1
 F02135,Kelenhegyi lépcső,47.482003,19.045375,F02135,,,,1
 F02136,Rezeda utca,47.483418,19.043467,F02136,,,,1
-F02137,Rezeda utca,47.483094,19.043785,F02137,,,,1
+F02137,Rezeda utca,47.483280,19.043544,F02137,,,,1
 F02138,Búsuló Juhász (Citadella),47.485172,19.040614,F02138,,,,1
 F02142,Szent Gellért tér - Műegyetem M,47.482896,19.053776,F02142,,,,1
 F02143,Szent Gellért tér - Műegyetem M,47.482860,19.053922,F02143,,,,1
@@ -3516,8 +3532,8 @@ F02148,Gárdonyi tér,47.479991,19.051428,F02148,,,,1
 F02149,Gárdonyi tér,47.480522,19.051932,F02149,,,,1
 F02150,Móricz Zsigmond körtér M,47.476960,19.049782,F02150,,,,1
 F02152,Budafoki út / Karinthy Frigyes út,47.476872,19.053383,F02152,,,,2
-F02153,Budafoki út / Karinthy Frigyes út,47.475827,19.054107,F02153,,,,1
-F02154,Budafoki út / Karinthy Frigyes út,47.476025,19.053457,F02154,,,,1
+F02153,Budafoki út / Karinthy Frigyes út,47.475850,19.054105,F02153,,,,1
+F02154,Budafoki út / Karinthy Frigyes út,47.476048,19.053455,F02154,,,,1
 F02155,Budafoki út / Karinthy Frigyes út,47.475412,19.053165,F02155,,,,2
 F02156,Budafoki út / Karinthy Frigyes út,47.476169,19.052582,F02156,,,,1
 F02157,Lőportorony utca,47.451890,19.050709,F02157,,,,2
@@ -3542,7 +3558,7 @@ F02176,Kosztolányi Dezső tér,47.475845,19.042207,F02176,,,,1
 F02177,Kosztolányi Dezső tér,47.475951,19.042538,F02177,,,,1
 F02180,Kosztolányi Dezső tér,47.474864,19.042062,F02180,,,,1
 F02181,Kosztolányi Dezső tér,47.474990,19.039382,F02181,,,,1
-F02182,Kosztolányi Dezső tér,47.475665,19.039952,F02182,,,,1
+F02182,Kosztolányi Dezső tér,47.475688,19.039949,F02182,,,,1
 F02183,Kosztolányi Dezső tér,47.474891,19.038864,F02183,,,,1
 F02184,Kosztolányi Dezső tér,47.475179,19.040191,F02184,,,,1
 F02192,Móricz Zsigmond körtér M,47.477779,19.047938,F02192,,,,1
@@ -3564,13 +3580,13 @@ F02214,Puskás Tivadar utca,47.460437,19.033642,F02214,,,,1
 F02215,Bártfai utca,47.464034,19.029304,F02215,,,,1
 F02216,Bártfai utca,47.464286,19.029131,F02216,,,,1
 F02217,Rupphegyi út,47.463163,18.985059,F02217,,,,1
-F02218,Rupphegyi út,47.463064,18.984290,F02218,,,,1
+F02218,Rupphegyi út,47.463077,18.984890,F02218,,,,1
 F02219,Albertfalva vasútállomás,47.441855,19.034588,F02219,,,,1
 F02220,Kelenföldi autóbuszgarázs,47.473324,19.030213,F02220,,,,2
 F02221,Kelenföldi autóbuszgarázs,47.473262,19.030773,F02221,,,,2
 F02222,"Petőfi híd, budai hídfő",47.476573,19.059268,F02222,,,,1
-F02224,"Petőfi híd, budai hídfő",47.476672,19.058963,F02224,,,,1
-F02225,"Petőfi híd, budai hídfő",47.476933,19.059586,F02225,,,,1
+F02224,"Petőfi híd, budai hídfő",47.476695,19.058975,F02224,,,,1
+F02225,"Petőfi híd, budai hídfő",47.476956,19.059572,F02225,,,,1
 F02226,Gazdagréti tér,47.473142,18.992276,F02226,,,,2
 F02227,Gazdagréti tér,47.473322,18.992542,F02227,,,,2
 F02228,Gazdagréti tér,47.473223,18.992436,F02228,,,,2
@@ -3694,7 +3710,7 @@ F02361,György Aladár utca,47.511474,18.989435,F02361,,,,1
 F02362,Kiss Áron utca,47.512850,18.989685,F02362,,,,1
 F02364,Orvosi rendelő,47.483316,18.996220,F02364,,,,1
 F02365,Orvosi rendelő,47.483703,18.995861,F02365,,,,1
-F02366,Hadik András utca,47.510105,18.993599,F02366,,,,1
+F02366,Hadik András utca,47.509838,18.994568,F02366,,,,1
 F02367,Hadik András utca,47.509929,18.993990,F02367,,,,1
 F02368,Lelesz utca,47.509551,18.992915,F02368,,,,1
 F02369,Lelesz utca,47.509542,18.993101,F02369,,,,1
@@ -3739,7 +3755,7 @@ F02407,Kék Golyó utca,47.497814,19.021129,F02407,,,,2
 F02408,Kék Golyó utca,47.497571,19.020891,F02408,,,,2
 F02409,Kék Golyó utca,47.497293,19.020652,F02409,,,,1
 F02411,Kék Golyó utca,47.497994,19.020837,F02411,,,,1
-F02413,Királyhágó tér,47.495881,19.018688,F02413,,,,1
+F02413,Királyhágó tér,47.495743,19.018990,F02413,,,,1
 F02414,Királyhágó tér,47.495521,19.019711,F02414,,,,2
 F02415,Márvány utca,47.494540,19.020547,F02415,,,,1
 F02416,Csörsz utca,47.490206,19.024437,F02416,,,,1
@@ -3758,7 +3774,7 @@ F02430,Vöröskő utca,47.496668,19.007341,F02430,,,,1
 F02431,Szendrő utca,47.495390,19.004237,F02431,,,,1
 F02433,Szendrő utca,47.495255,19.004316,F02433,,,,1
 F02434,Pagony utca,47.494931,19.003096,F02434,,,,1
-F02435,Sólyom utca,47.496980,19.000117,F02435,,,,2
+F02435,Sólyom utca,47.496942,19.000102,F02435,,,,2
 F02436,Sólyom utca,47.497142,18.999957,F02436,,,,2
 F02437,Tamási Áron utca / Thomán István utca,47.496979,18.998077,F02437,,,,2
 F02438,Tamási Áron utca / Thomán István utca,47.496844,18.998184,F02438,,,,2
@@ -3791,8 +3807,8 @@ F02466,Széll Kálmán tér M,47.507376,19.025598,F02466,,,,1
 F02469,Széll Kálmán tér M,47.506520,19.023908,F02469,,,,1
 F02470,Széll Kálmán tér M,47.506404,19.024311,F02470,,,,1
 F02473,Széll Kálmán tér M,47.506647,19.023912,F02473,,,,1
-F02476,Széll Kálmán tér M,47.507358,19.024496,F02476,,,,1
-F02477,Széll Kálmán tér M,47.507232,19.025186,F02477,,,,1
+F02476,Széll Kálmán tér M,47.507384,19.024492,F02476,,,,1
+F02477,Széll Kálmán tér M,47.507258,19.025182,F02477,,,,1
 F02480,Széll Kálmán tér,47.506818,19.024895,F02480,,,CSF02480,2
 F02481,Széll Kálmán tér,47.507533,19.026097,F02481,,,CSF02480,2
 F02482,Rendelőintézet,47.511139,19.005670,F02482,,,,1
@@ -3826,17 +3842,17 @@ F02512,Szent István park,47.518335,19.051456,F02512,,,,1
 F02513,Szent István park,47.517740,19.052625,F02513,,,,1
 F02514,Victor Hugo utca,47.517793,19.054762,F02514,,,,1
 F02515,Hegedűs Gyula utca,47.517164,19.054815,F02515,,,,1
-F02516,Victor Hugo utca,47.518468,19.056767,F02516,,,,1
+F02516,Victor Hugo utca,47.517883,19.057363,F02516,,,,1
 F02517,Victor Hugo utca,47.518227,19.055824,F02517,,,,1
 F02519,Gogol utca,47.520132,19.057590,F02519,,,,1
 F02521,Ipoly utca,47.520564,19.054072,F02521,,,,1
-F02522,Ipoly utca,47.519853,19.053886,F02522,,,,1
+F02522,Ipoly utca,47.519394,19.053605,F02522,,,,1
 F02523,Radnóti Miklós utca,47.515644,19.053195,F02523,,,,1
 F02524,Radnóti Miklós utca,47.514538,19.054124,F02524,,,,1
 F02525,Népfürdő utca / Árpád híd,47.536348,19.059466,F02525,,,,1
 F02526,Népfürdő utca / Árpád híd,47.535889,19.059638,F02526,,,,1
-F02527,Népfürdő utca / Árpád híd,47.536294,19.058868,F02527,,,,1
-F02528,Népfürdő utca / Árpád híd,47.536087,19.059532,F02528,,,,1
+F02527,Népfürdő utca / Árpád híd,47.536322,19.058867,F02527,,,,1
+F02528,Népfürdő utca / Árpád híd,47.536115,19.059531,F02528,,,,1
 F02532,Kámfor utca,47.552415,19.084459,F02532,,,,1
 F02533,Szekszárdi utca,47.552550,19.083835,F02533,,,,1
 F02534,Gyöngyösi utca M,47.549342,19.074188,F02534,,,,1
@@ -3861,7 +3877,7 @@ F02552,Fiastyúk utca,47.540111,19.084889,F02552,,,,1
 F02553,Fiastyúk utca,47.540159,19.085595,F02553,,,,2
 F02554,Fiastyúk utca,47.540537,19.085874,F02554,,,,2
 F02555,Fiastyúk utca,47.540426,19.085620,F02555,,,,1
-F02556,Fiastyúk utca,47.540300,19.085898,F02556,,,,1
+F02556,Fiastyúk utca,47.541393,19.086508,F02556,,,,1
 F02557,Násznagy utca,47.542783,19.082128,F02557,,,,1
 F02558,Násznagy utca,47.543107,19.081942,F02558,,,,1
 F02559,József Attila tér,47.547406,19.083751,F02559,,,,1
@@ -3883,11 +3899,11 @@ F02574,Vág utca,47.523954,19.056011,F02574,,,,1
 F02575,Pap Károly utca,47.533557,19.073742,F02575,,,,1
 F02576,Pap Károly utca,47.533737,19.075415,F02576,,,,1
 F02577,Röppentyű utca,47.534277,19.074632,F02577,,,,1
-F02578,Göncz Árpád városközpont M,47.532219,19.067300,F02578,,,,1
+F02578,Göncz Árpád városközpont M,47.532255,19.067313,F02578,,,,1
 F02579,Göncz Árpád városközpont M,47.532515,19.067340,F02579,,,,1
 F02580,Göncz Árpád városközpont M,47.532335,19.067553,F02580,,,,2
 F02581,Göncz Árpád városközpont M,47.532192,19.067832,F02581,,,,1
-F02582,Göncz Árpád városközpont M,47.531886,19.068296,F02582,,,,1
+F02582,Göncz Árpád városközpont M,47.531886,19.068335,F02582,,,,1
 F02583,Hajdú utca,47.531039,19.075560,F02583,,,,2
 F02584,Béke utca,47.532665,19.080700,F02584,,,,1
 F02585,Béke tér,47.529376,19.080195,F02585,,,,2
@@ -3900,15 +3916,14 @@ F02591,Lehel utca / Róbert Károly körút,47.526244,19.078506,F02591,,,,2
 F02592,Lehel utca / Róbert Károly körút,47.526433,19.078771,F02592,,,,1
 F02593,Lehel utca / Róbert Károly körút,47.525833,19.078188,F02593,,,,2
 F02594,Lehel utca / Róbert Károly körút,47.526137,19.077337,F02594,,,,1
-F02595,Lehel utca / Róbert Károly körút,47.524895,19.078598,F02595,,,,1
-F02596,Lehel utca / Róbert Károly körút,47.525797,19.077524,F02596,,,,1
-F02597,Lehel utca / Róbert Károly körút,47.526200,19.076952,F02597,,,,1
+F02595,Lehel utca / Róbert Károly körút,47.524903,19.078660,F02595,,,,1
+F02596,Lehel utca / Róbert Károly körút,47.525795,19.077536,F02596,,,,1
+F02597,Lehel utca / Róbert Károly körút,47.526227,19.076952,F02597,,,,1
 F02598,Lehel utca / Róbert Károly körút,47.526336,19.078348,F02598,,,,2
 F02599,Göncz Árpád városközpont M,47.531472,19.068057,F02599,,,,1
-F02600,Göncz Árpád városközpont M,47.532974,19.066119,F02600,,,,1
+F02600,Göncz Árpád városközpont M,47.533002,19.066118,F02600,,,,1
 F02601,Göncz Árpád városközpont M,47.533613,19.066849,F02601,,,,1
 F02602,Göncz Árpád városközpont M,47.533703,19.065561,F02602,,,,1
-F02603,Göncz Árpád városközpont M,47.534188,19.067646,F02603,,,,1
 F02604,Göncz Árpád városközpont M,47.533559,19.067434,F02604,,,,1
 F02605,Göncz Árpád városközpont M,47.533388,19.067367,F02605,,,,1
 F02606,Tisza utca,47.523837,19.059397,F02606,,,,1
@@ -3934,8 +3949,8 @@ F02627,Vágány utca / Róbert Károly körút,47.522187,19.081531,F02627,,,,1
 F02628,Vágány utca / Róbert Károly körút,47.522052,19.081995,F02628,,,,1
 F02629,Vágány utca / Róbert Károly körút,47.522799,19.080721,F02629,,,,1
 F02630,Vágány utca / Róbert Károly körút,47.524516,19.081970,F02630,,,,1
-F02631,Vágány utca / Róbert Károly körút,47.523617,19.080987,F02631,,,,1
-F02632,Vágány utca / Róbert Károly körút,47.523230,19.081478,F02632,,,,1
+F02631,Vágány utca / Róbert Károly körút,47.523653,19.080987,F02631,,,,1
+F02632,Vágány utca / Róbert Károly körút,47.523257,19.081478,F02632,,,,1
 F02633,Vágány utca / Róbert Károly körút,47.523869,19.080244,F02633,,,,1
 F02634,Vágány utca / Róbert Károly körút,47.524139,19.080496,F02634,,,,1
 F02635,Petneházy utca,47.531279,19.085680,F02635,,,,1
@@ -3945,8 +3960,8 @@ F02638,Göncz Árpád városközpont,47.532171,19.066471,F02638,,,CSF02637,1
 F02639,Kassák Lajos utca,47.522532,19.066579,F02639,,,,1
 F02640,Kassák Lajos utca,47.522199,19.066739,F02640,,,,1
 F02641,Honvédkórház,47.529816,19.071522,F02641,,,,1
-F02642,Honvédkórház,47.530449,19.070169,F02642,,,,1
-F02643,Honvédkórház,47.530041,19.070699,F02643,,,,1
+F02642,Honvédkórház,47.530438,19.070181,F02642,,,,1
+F02643,Honvédkórház,47.530069,19.070699,F02643,,,,1
 F02644,Honvédkórház,47.529376,19.071443,F02644,,,,1
 F02645,Szegedi út,47.528653,19.084137,F02645,,,,1
 F02646,Szegedi út,47.528167,19.083593,F02646,,,,1
@@ -3996,7 +4011,7 @@ F02694,Széchenyi fürdő M,47.519237,19.082445,F02694,,,,2
 F02695,Széchenyi fürdő M,47.519039,19.081170,F02695,,,,1
 F02696,Széchenyi fürdő,47.517508,19.080980,F02696,,,CSF02696,2
 F02697,Széchenyi fürdő,47.517407,19.081481,F02697,,,CSF02696,2
-F02698,Kós Károly sétány,47.518741,19.085166,F02698,,,,2
+F02698,Kós Károly sétány,47.519362,19.084238,F02698,,,,2
 F02699,Bethesda utca,47.517922,19.086693,F02699,,,,1
 F02700,Bethesda utca,47.517382,19.087183,F02700,,,,2
 F02701,Ciklámen utca,47.515511,19.089943,F02701,,,,1
@@ -4009,7 +4024,7 @@ F02707,Dvořák sétány,47.510251,19.083886,F02707,,,,2
 F02708,Dvořák sétány,47.510377,19.084497,F02708,,,,2
 F02709,Ötvenhatosok tere,47.507147,19.086459,F02709,,,,1
 F02711,Zichy Géza utca,47.510033,19.089926,F02711,,,,1
-F02712,Zichy Géza utca,47.510392,19.090737,F02712,,,,1
+F02712,Zichy Géza utca,47.509879,19.090046,F02712,,,,1
 F02713,Vakok Intézete,47.513549,19.093168,F02713,,,,1
 F02714,Vakok Intézete,47.512550,19.093260,F02714,,,,1
 F02715,Vakok Intézete,47.512424,19.094614,F02715,,,,1
@@ -4025,8 +4040,8 @@ F02726,Zugló vasútállomás (Hermina út),47.510813,19.097825,F02726,,,,1
 F02727,Zugló vasútállomás,47.511586,19.098436,F02727,,,,1
 F02729,Zugló vasútállomás,47.511370,19.099458,F02729,,,,1
 F02730,Zugló vasútállomás,47.511720,19.099153,F02730,,,,1
-F02731,Zugló vasútállomás,47.510921,19.099580,F02731,,,,1
-F02732,Zugló vasútállomás,47.511344,19.099156,F02732,,,,1
+F02731,Zugló vasútállomás,47.510928,19.099579,F02731,,,,1
+F02732,Zugló vasútállomás,47.511333,19.099141,F02732,,,,1
 F02733,Egressy út / Stefánia út,47.504768,19.099664,F02733,,,,2
 F02734,Egressy út / Stefánia út,47.504785,19.100806,F02734,,,,1
 F02735,Egressy út / Stefánia út,47.504902,19.101390,F02735,,,,1
@@ -4037,17 +4052,17 @@ F02739,Egressy út / Hungária körút,47.507014,19.104512,F02739,,,,1
 F02740,Egressy út / Hungária körút,47.507040,19.105680,F02740,,,,1
 F02741,Egressy út / Hungária körút,47.506906,19.105547,F02741,,,,1
 F02742,Egressy út / Hungária körút,47.506834,19.104047,F02742,,,,1
-F02743,Egressy út / Hungária körút,47.507177,19.104050,F02743,,,,1
-F02744,Egressy út / Hungária körút,47.506744,19.104445,F02744,,,,1
+F02743,Egressy út / Hungária körút,47.507184,19.104022,F02743,,,,1
+F02744,Egressy út / Hungária körút,47.506779,19.104460,F02744,,,,1
 F02745,Jeszenák János utca,47.511922,19.124682,F02745,,,,1
 F02746,Róna utca,47.506194,19.123320,F02746,,,,2
 F02747,Róna utca,47.506167,19.123638,F02747,,,,2
-F02748,Pongrátz Gergely tér,47.509482,19.128993,F02748,,,,1
+F02748,Pongrátz Gergely tér,47.509517,19.128970,F02748,,,,1
 F02749,Pongrátz Gergely tér,47.509761,19.128316,F02749,,,,1
 F02750,Pongrátz Gergely tér,47.509096,19.128501,F02750,,,,1
 F02751,Pongrátz Gergely tér,47.508916,19.128567,F02751,,,,1
 F02752,Pongrátz Gergely tér,47.509167,19.129536,F02752,,,,1
-F02753,Pongrátz Gergely tér,47.509330,19.129449,F02753,,,,1
+F02753,Pongrátz Gergely tér,47.509310,19.129500,F02753,,,,1
 F02754,Bánki Donát utca,47.506078,19.134443,F02754,,,,1
 F02755,Örs vezér tere M+H,47.504404,19.136551,F02755,,,,1
 F02756,Örs vezér tere M+H,47.504674,19.136485,F02756,,,,2
@@ -4088,8 +4103,8 @@ F02792,Gvadányi utca,47.520944,19.135954,F02792,,,,1
 F02793,Öv utca / Mogyoródi út,47.524520,19.141019,F02793,,,,1
 F02794,Egressy tér,47.514317,19.120610,F02794,,,,1
 F02795,Egressy tér,47.515317,19.119097,F02795,,,,1
-F02796,Egressy tér,47.514875,19.119827,F02796,,,,1
-F02797,Egressy tér,47.514560,19.120610,F02797,,,,1
+F02796,Egressy tér,47.514893,19.119830,F02796,,,,1
+F02797,Egressy tér,47.514586,19.120613,F02797,,,,1
 F02798,Egressy tér,47.514300,19.119229,F02798,,,,1
 F02799,Egressy tér,47.514120,19.119215,F02799,,,,1
 F02800,Turán utca,47.517303,19.123964,F02800,,,,1
@@ -4103,31 +4118,30 @@ F02807,Rákosmezei tér,47.524769,19.133504,F02807,,,,1
 F02808,Öv utca / Egressy út,47.526763,19.136628,F02808,,,,1
 F02809,Szugló utca / Cinkotai út,47.526716,19.127133,F02809,,,,1
 F02810,Szugló utca / Cinkotai út,47.526862,19.127523,F02810,,,,1
-F02811,Komócsy utca,47.521304,19.123275,F02811,,,,1
-F02812,Komócsy utca,47.521610,19.122439,F02812,,,,1
+F02811,Komócsy utca,47.521304,19.123318,F02811,,,,1
+F02812,Komócsy utca,47.521529,19.122667,F02812,,,,1
 F02813,Szugló utca / Nagy Lajos király útja,47.517495,19.116206,F02813,,,,1
-F02814,Szugló utca / Nagy Lajos király útja,47.517360,19.115688,F02814,,,,1
+F02814,Szugló utca / Nagy Lajos király útja,47.517360,19.115691,F02814,,,,1
 F02815,Szugló utca / Nagy Lajos király útja,47.517568,19.115104,F02815,,,,1
 F02816,Szugló utca / Nagy Lajos király útja,47.516875,19.115541,F02816,,,,1
 F02817,Szugló utca / Nagy Lajos király útja,47.517054,19.116192,F02817,,,,1
-F02818,Szugló utca / Nagy Lajos király útja,47.517144,19.116219,F02818,,,,1
+F02818,Szugló utca / Nagy Lajos király útja,47.517171,19.116208,F02818,,,,1
 F02819,Szugló utca / Róna utca,47.514224,19.110998,F02819,,,,1
 F02820,Szugló utca / Róna utca,47.514539,19.111104,F02820,,,,1
 F02821,Tisza István tér,47.516357,19.108040,F02821,,,,1
-F02823,Tisza István tér,47.516394,19.107097,F02823,,,,1
+F02823,Tisza István tér,47.516364,19.107099,F02823,,,,1
 F02824,Tisza István tér,47.516951,19.108478,F02824,,,,1
 F02828,Bosnyák tér,47.519791,19.111471,F02828,,,,1
-F02829,Bosnyák tér,47.519782,19.112319,F02829,,,,1
+F02829,Bosnyák tér,47.519772,19.112427,F02829,,,,1
 F02830,Bosnyák tér,47.519476,19.111336,F02830,,,,1
-F02831,Bosnyák tér,47.519458,19.111761,F02831,,,,1
-F02832,Bosnyák tér,47.519152,19.112637,F02832,,,,1
+F02831,Bosnyák tér,47.519485,19.111763,F02831,,,,1
+F02832,Bosnyák tér,47.519250,19.112560,F02832,,,,1
+F02833,Bosnyák tér,47.519817,19.112295,F02833,,,,1
 F02834,Bosnyák tér,47.518775,19.111282,F02834,,,,1
-F02835,Bosnyák tér,47.519835,19.112956,F02835,,,,1
-F02836,Bosnyák tér,47.520384,19.113674,F02836,,,,1
+F02835,Bosnyák tér,47.519892,19.112835,F02835,,,,1
 F02837,Bosnyák tér,47.519728,19.111684,F02837,,,,1
-F02840,Bosnyák tér,47.520213,19.113491,F02840,,,,2
-F02844,Rákospatak utca / Csömöri út,47.524356,19.118207,F02844,,,,1
-F02845,Rákospatak utca / Csömöri út,47.524617,19.118844,F02845,,,,1
+F02844,Rákospatak utca / Csömöri út,47.524437,19.118329,F02844,,,,1
+F02845,Rákospatak utca / Csömöri út,47.524554,19.118781,F02845,,,,1
 F02846,Miskolci utca / Csömöri út,47.527214,19.122035,F02846,,,,1
 F02847,Miskolci utca / Csömöri út,47.525992,19.120280,F02847,,,,1
 F02848,Cinkotai út,47.528472,19.123842,F02848,,,,1
@@ -4138,21 +4152,21 @@ F02852,Fűrész utca,47.523307,19.113372,F02852,,,,1
 F02853,Fűrész utca,47.523603,19.113864,F02853,,,,1
 F02854,Telepes utca,47.520718,19.110647,F02854,,,,1
 F02855,Szuglói körvasút sor,47.535071,19.113227,F02855,,,,1
-F02857,Öv utca,47.534389,19.112485,F02857,,,,1
-F02858,Öv utca,47.534748,19.112711,F02858,,,,1
+F02857,Öv utca,47.534389,19.112485,F02857,,,,2
+F02858,Öv utca,47.534748,19.112711,F02858,,,,2
 F02859,Öv utca,47.534217,19.113239,F02859,,,,1
-F02861,Rákospatak utca,47.529228,19.107563,F02861,,,,1
-F02863,Rákospatak utca,47.528644,19.107113,F02863,,,,1
-F02865,Nagy Lajos király útja / Czobor utca,47.522800,19.101992,F02865,,merged,MERGED_F02865,1
+F02861,Rákospatak utca,47.529228,19.107563,F02861,,,,2
+F02863,Rákospatak utca,47.528644,19.107113,F02863,,,,2
+F02865,Nagy Lajos király útja / Czobor utca,47.522827,19.102034,F02865,,merged,MERGED_F02865,2
 F02866,Nagy Lajos király útja / Czobor utca,47.522352,19.101636,F02866,,,,1
 F02867,Nagy Lajos király útja / Czobor utca,47.522125,19.102589,F02867,,,,1
 F02868,Nagy Lajos király útja / Czobor utca,47.522818,19.101156,F02868,,,,1
-F02869,Nagy Lajos király útja / Czobor utca,47.522386,19.102443,F02869,,,,1
-F02873,Korong utca,47.514581,19.097364,F02873,,,,1
+F02869,Nagy Lajos király útja / Czobor utca,47.522404,19.102458,F02869,,,,1
+F02873,Korong utca,47.514770,19.097140,F02873,,,,1
 F02875,Korong utca,47.514680,19.097072,F02875,,,,1
 F02876,"Erzsébet királyné útja, aluljáró",47.517407,19.094034,F02876,,,,1
-F02879,"Erzsébet királyné útja, aluljáró",47.517542,19.093251,F02879,,,,1
-F02880,"Erzsébet királyné útja, aluljáró",47.517821,19.093052,F02880,,,,1
+F02879,"Erzsébet királyné útja, aluljáró",47.517569,19.093252,F02879,,,,1
+F02880,"Erzsébet királyné útja, aluljáró",47.517847,19.093053,F02880,,,,1
 F02881,"Erzsébet királyné útja, aluljáró",47.516849,19.093967,F02881,,,,1
 F02882,Mexikói út M,47.519927,19.090478,F02882,,,,1
 F02883,Mexikói út M,47.519773,19.090651,F02883,,,,1
@@ -4164,8 +4178,8 @@ F02888,Mexikói út,47.519513,19.091037,F02888,,,CSF02887,2
 F02890,Mexikói út M,47.519387,19.090690,F02890,,,,1
 F02891,Kacsóh Pongrác út,47.518236,19.089680,F02891,,,,2
 F02892,Kacsóh Pongrác út,47.517759,19.089560,F02892,,,,1
-F02893,Kacsóh Pongrác út,47.519064,19.088114,F02893,,,,1
-F02894,Kacsóh Pongrác út,47.518677,19.088565,F02894,,,,1
+F02893,Kacsóh Pongrác út,47.519099,19.088115,F02893,,,,1
+F02894,Kacsóh Pongrác út,47.518704,19.088553,F02894,,,,1
 F02895,Mexikói út,47.521761,19.092006,F02895,,,,2
 F02898,Kassai tér,47.524799,19.096550,F02898,,,,1
 F02899,Kassai tér,47.524016,19.098116,F02899,,,,1
@@ -4176,10 +4190,9 @@ F02903,Pándorfalu utca,47.529512,19.102706,F02903,,,,1
 F02904,Pándorfalu utca,47.529770,19.103062,F02904,,,,1
 F02905,Rákospatak utca,47.530967,19.101071,F02905,,,,1
 F02906,Róna park,47.535636,19.105701,F02906,,,,1
-F02907,Csáktornya park,47.536523,19.106801,F02907,,,,1
 F02908,Csáktornya park,47.536399,19.107149,F02908,,,,1
-F02909,Miskolci utca,47.532527,19.110648,F02909,,,,1
-F02911,Miskolci utca,47.532177,19.110421,F02911,,,,1
+F02909,Miskolci utca,47.532555,19.110650,F02909,,,,2
+F02911,Miskolci utca,47.532204,19.110424,F02911,,,,2
 F02913,Szentes utca,47.526776,19.117240,F02913,,,,1
 F02914,Szentes utca,47.526462,19.117054,F02914,,,,1
 F02915,Róna utca,47.511865,19.115416,F02915,,,,1
@@ -4190,8 +4203,8 @@ F02919,"Erzsébet királyné útja, aluljáró",47.516625,19.092480,F02919,,,,1
 F02920,"Erzsébet királyné útja, aluljáró",47.516625,19.092825,F02920,,,,1
 F02921,"Erzsébet királyné útja, aluljáró",47.516139,19.092639,F02921,,,,1
 F02922,"Erzsébet királyné útja, aluljáró",47.515690,19.092665,F02922,,,,1
-F02923,"Erzsébet királyné útja, aluljáró",47.516400,19.091909,F02923,,,,1
-F02924,"Erzsébet királyné útja, aluljáró",47.516810,19.091387,F02924,,,,1
+F02923,"Erzsébet királyné útja, aluljáró",47.516427,19.091910,F02923,,,,1
+F02924,"Erzsébet királyné útja, aluljáró",47.516814,19.091406,F02924,,,,1
 F02925,Amerikai út (Mexikói út M),47.521347,19.092471,F02925,,,,1
 F02928,Pillangó utca,47.503499,19.118511,F02928,,,,1
 F02929,Pillangó utca,47.503472,19.118830,F02929,,,,1
@@ -4202,7 +4215,7 @@ F02933,Tihamér utca,47.511588,19.139669,F02933,,,,1
 F02934,Újváros park,47.514650,19.145197,F02934,,,,1
 F02935,Újváros park,47.514830,19.144719,F02935,,,,1
 F02936,Mályva utca,47.511593,19.133297,F02936,,,,1
-F02937,Mályva utca,47.511224,19.132301,F02937,,,,1
+F02937,Mályva utca,47.511232,19.132304,F02937,,,,1
 F02938,Gödöllői utca,47.515352,19.133728,F02938,,,,1
 F02939,Gödöllői utca,47.515633,19.133070,F02939,,,,1
 F02940,Cinkotai út / Mogyoródi út,47.522633,19.138347,F02940,,,,1
@@ -4212,32 +4225,32 @@ F02943,Fűrész utca / Szugló utca,47.520074,19.119223,F02943,,,,1
 F02944,Fűrész utca / Szugló utca,47.519688,19.118944,F02944,,,,1
 F02945,Kerékgyártó utca,47.532533,19.116770,F02945,,,,1
 F02946,Kerékgyártó utca,47.532298,19.117487,F02946,,,,1
-F02947,Fűrész utca,47.526272,19.104973,F02947,,,,1
-F02948,Fűrész utca,47.525785,19.104691,F02948,,,,1
+F02947,Fűrész utca,47.526272,19.104973,F02947,,,,2
+F02948,Fűrész utca,47.525785,19.104691,F02948,,,,2
 F02951,Fűrész utca,47.527397,19.098651,F02951,,,,1
 F02952,Nezsider park,47.527477,19.101107,F02952,,,,1
 F02953,Nezsider park,47.526722,19.100628,F02953,,,,1
-F02954,Sárrét park,47.534238,19.106440,F02954,,,,1
+F02954,Sárrét park,47.533744,19.106029,F02954,,,,1
 F02955,Sárrét park,47.533231,19.105788,F02955,,,,1
 F02956,Posta Járműtelep,47.510213,19.112523,F02956,,,,1
 F02957,Posta Járműtelep,47.510203,19.112214,F02957,,,,1
 F02960,Amerikai út,47.514264,19.103391,F02960,,,,1
 F02961,Amerikai út,47.513581,19.102501,F02961,,,,1
-F02962,Laky Adolf utca,47.519618,19.097435,F02962,,,,1
+F02962,Laky Adolf utca,47.519645,19.097436,F02962,,,,1
 F02963,Laky Adolf utca,47.519977,19.097729,F02963,,,,1
-F02966,Kerékgyártó utca,47.521296,19.105828,F02966,,,,1
-F02967,Kerékgyártó utca,47.521278,19.106266,F02967,,,,1
-F02968,Tihamér utca,47.507060,19.133051,F02968,,,,1
-F02969,Tihamér utca,47.506942,19.133449,F02969,,,,1
+F02966,Kerékgyártó utca,47.521323,19.105830,F02966,,,,1
+F02967,Kerékgyártó utca,47.521296,19.106268,F02967,,,,1
+F02968,Tihamér utca,47.507085,19.133055,F02968,,,,1
+F02969,Tihamér utca,47.506977,19.133466,F02969,,,,1
 F02970,Tihamér utca,47.506826,19.133475,F02970,,,,1
-F02971,Jeszenák János utca,47.511733,19.125199,F02971,,,,1
-F02972,Jeszenák János utca,47.511553,19.125703,F02972,,,,1
+F02971,Jeszenák János utca,47.511750,19.125216,F02971,,,,1
+F02972,Jeszenák János utca,47.511588,19.125680,F02972,,,,1
 F02973,Jeszenák János utca,47.511436,19.125730,F02973,,,,1
 F02974,Amerikai út (Mexikói út M),47.522264,19.092857,F02974,,,,1
 F02977,Ajtósi Dürer sor,47.514627,19.094934,F02977,,,,1
 F02978,Ajtósi Dürer sor,47.513566,19.095743,F02978,,,,1
-F02979,Ajtósi Dürer sor,47.513431,19.096261,F02979,,,,1
-F02980,Ajtósi Dürer sor,47.513809,19.095757,F02980,,,,1
+F02979,Ajtósi Dürer sor,47.513448,19.096262,F02979,,,,1
+F02980,Ajtósi Dürer sor,47.513835,19.095758,F02980,,,,1
 F02981,Besztercebányai utca,47.541418,19.171851,F02981,,,,2
 F02982,Besztercebányai utca,47.541472,19.171639,F02982,,,,2
 F02983,György utca,47.537838,19.164139,F02983,,,,2
@@ -4273,16 +4286,16 @@ F03015,Közvágóhíd tér,47.572273,19.124436,F03015,,,,1
 F03016,Közvágóhíd tér,47.572182,19.124901,F03016,,,,1
 F03017,Kovácsi Kálmán tér,47.573938,19.121674,F03017,,,,1
 F03018,Kovácsi Kálmán tér,47.574361,19.122180,F03018,,,,1
-F03019,Géza fejedelem tér,47.568355,19.118052,F03019,,,,2
-F03020,Géza fejedelem tér,47.568562,19.117959,F03020,,,,2
+F03019,Géza fejedelem tér,47.568385,19.118055,F03019,,,,2
+F03020,Géza fejedelem tér,47.568592,19.117962,F03020,,,,2
 F03021,Géza fejedelem tér,47.568176,19.116776,F03021,,,,1
 F03022,Géza fejedelem tér,47.568581,19.117162,F03022,,,,1
-F03023,Dal utca,47.567265,19.121014,F03023,,,,2
-F03024,Fő út,47.566446,19.122488,F03024,,,,2
+F03023,Dal utca,47.567295,19.121017,F03023,,,,2
+F03024,Fő út,47.566467,19.122491,F03024,,,,2
 F03025,Csobogós utca,47.569492,19.126878,F03025,,,,2
 F03026,"Rákospalota, Kossuth utca",47.568755,19.126305,F03026,,,,1
 F03027,"Rákospalota, Kossuth utca",47.568044,19.125892,F03027,,,,1
-F03028,"Rákospalota, Kossuth utca",47.567577,19.125360,F03028,,,,2
+F03028,"Rákospalota, Kossuth utca",47.567400,19.125071,F03028,,,,2
 F03029,"Rákospalota, Kossuth utca",47.567442,19.124841,F03029,,,,1
 F03030,"Rákospalota, Kossuth utca",47.567236,19.124575,F03030,,,,1
 F03032,Sportcentrum,47.574621,19.135099,F03032,,,,1
@@ -4322,7 +4335,7 @@ F03067,Szerencs utca,47.552826,19.111708,F03067,,,,1
 F03068,Eötvös utca 74.,47.555811,19.112973,F03068,,,,1
 F03069,Arany János utca,47.555614,19.112747,F03069,,,,1
 F03070,Rákos úti szakrendelő,47.554621,19.118951,F03070,,,,1
-F03071,Rákos úti szakrendelő,47.553326,19.118391,F03071,,,,1
+F03071,Rákos úti szakrendelő,47.553355,19.118394,F03071,,,,1
 F03072,Rákos úti szakrendelő,47.553838,19.118777,F03072,,,,1
 F03073,Rákos úti szakrendelő,47.553973,19.119415,F03073,,,,1
 F03074,Pázmány Péter utca,47.550850,19.107401,F03074,,,,1
@@ -4392,15 +4405,15 @@ F03142,Késmárk utca,47.529892,19.148930,F03142,,,,1
 F03143,Késmárk utca 11.,47.530127,19.148041,F03143,,,,1
 F03144,"Újpalota, Szentmihályi út",47.541942,19.151423,F03144,,,,2
 F03145,"Újpalota, Szentmihályi út",47.541258,19.151741,F03145,,,,1
-F03146,"Újpalota, Szentmihályi út",47.541663,19.151091,F03146,,,,1
-F03147,"Újpalota, Szentmihályi út",47.541483,19.151396,F03147,,,,1
+F03146,"Újpalota, Szentmihályi út",47.541663,19.151091,F03146,,merged,MERGED_F03146,1
+F03147,"Újpalota, Szentmihályi út",47.541663,19.151091,F03146,,merged,MERGED_F03146,1
 F03148,Erdőkerülő utca,47.541151,19.151023,F03148,,,,1
 F03149,"Újpalota, Erdőkerülő utca",47.539546,19.145362,F03149,,,,2
 F03150,Erdőkerülő utca,47.539681,19.144884,F03150,,,,1
 F03151,Fő tér,47.540945,19.139162,F03151,,,,1
 F03152,Fő tér,47.541511,19.140106,F03152,,,,1
-F03153,Fő tér,47.541590,19.141647,F03153,,,,1
-F03154,Fő tér,47.542418,19.140811,F03154,,,,1
+F03153,Fő tér,47.541618,19.141651,F03153,,,,1
+F03154,Fő tér,47.542447,19.140816,F03154,,,,1
 F03155,Fő tér,47.541959,19.141196,F03155,,,,1
 F03156,Fő tér,47.542184,19.140997,F03156,,,,1
 F03157,Vásárcsarnok,47.545962,19.140592,F03157,,,,1
@@ -4450,8 +4463,8 @@ F03201,Erdőkerülő utca 28.,47.540002,19.147780,F03201,,,,2
 F03202,Erdőkerülő utca 27.,47.540155,19.148538,F03202,,,,1
 F03203,Szent Korona útja,47.547779,19.115076,F03203,,,,1
 F03204,Szent Korona útja,47.547212,19.114570,F03204,,,,1
-F03205,Tóth István utca,47.538280,19.117003,F03205,,,,1
-F03206,Tóth István utca,47.537902,19.116604,F03206,,,,1
+F03205,Tóth István utca,47.538280,19.117003,F03205,,,,2
+F03206,Tóth István utca,47.537902,19.116604,F03206,,,,2
 F03209,Zsókavár utca,47.541032,19.143160,F03209,,,,1
 F03210,Gusztáv utca,47.539491,19.174184,F03210,,,,2
 F03211,Gusztáv utca,47.538771,19.174900,F03211,,,,1
@@ -4836,7 +4849,7 @@ F03635,Obszervatórium,47.430193,19.182700,F03635,,,,1
 F03636,Obszervatórium,47.429851,19.182871,F03636,,,,1
 F03637,Gilice tér,47.432034,19.184812,F03637,,,,1
 F03638,Gilice tér,47.432078,19.185634,F03638,,,,2
-F03639,Dalmady Győző utca,47.433488,19.194506,F03639,,,,1
+F03639,Dalmady Győző utca,47.433482,19.194288,F03639,,,,1
 F03640,Dalmady Győző utca,47.433381,19.194267,F03640,,,,1
 F03641,Péterhalmi út,47.423124,19.189428,F03641,,,,2
 F03642,Péterhalmi út,47.423331,19.189455,F03642,,,,2
@@ -5049,7 +5062,7 @@ F03866,Nagyenyed utca,47.427442,19.203250,F03866,,,,1
 F03867,Rába utca,47.427794,19.221502,F03867,,,,1
 F03868,Rába utca,47.427793,19.221873,F03868,,,,2
 F03869,Szemeretelep vasútállomás,47.443996,19.213017,F03869,,,,1
-F03870,Szemeretelep vasútállomás,47.444157,19.213362,F03870,,,,1
+F03870,Szemeretelep vasútállomás,47.444637,19.213532,F03870,,,,2
 F03871,Zöldségpiac,47.416527,19.169056,F03871,,,,2
 F03872,Zöldségpiac,47.417509,19.168144,F03872,,,,1
 F03873,Eke utca,47.407826,19.180974,F03873,,,,1
@@ -5107,7 +5120,7 @@ F03925,Győri Ottmár tér,47.459179,19.126516,F03925,,,,1
 F03926,Corvin körút,47.460399,19.131663,F03926,,,,1
 F03927,Corvin körút,47.460192,19.132127,F03927,,,,1
 F03928,Határ út M,47.464665,19.127771,F03928,,,,1
-F03929,Határ út M,47.465115,19.127201,F03929,,,,1
+F03929,Határ út M,47.465093,19.127310,F03929,,,,1
 F03930,Határ út M,47.465151,19.127254,F03930,,,,1
 F03931,Lehel utca,47.459475,19.140256,F03931,,,,2
 F03932,Lehel utca,47.459312,19.140826,F03932,,,,2
@@ -5174,7 +5187,7 @@ F04000,Bozsik Stadion (Ady Endre út),47.444551,19.153528,F04000,,,,1
 F04002,Vas Gereben utca / Ady Endre út,47.447523,19.149291,F04002,,,,1
 F04003,Vas Gereben utca / Ady Endre út,47.447793,19.149543,F04003,,,,2
 F04004,Vas Gereben utca / Ady Endre út,47.447684,19.149835,F04004,,,,2
-F04005,Bocskai utca,47.459136,19.157960,F04005,,,,1
+F04005,Bocskai utca,47.459149,19.157966,F04005,,,,1
 F04006,Bocskai utca,47.458739,19.158688,F04006,,,,1
 F04014,Határ út M,47.464575,19.127293,F04014,,,,1
 F04015,Határ út M,47.464809,19.127094,F04015,,,,1
@@ -5184,7 +5197,6 @@ F04019,Határ út M,47.464197,19.127743,F04019,,,,2
 F04020,Templom tér,47.452322,19.143280,F04020,,,,1
 F04021,Templom tér,47.452826,19.142459,F04021,,,,2
 F04022,Templom tér,47.452574,19.142697,F04022,,,,2
-F04023,Templom tér,47.452175,19.143179,F04023,,,,2
 F04024,Batthyány utca,47.446572,19.134691,F04024,,,,1
 F04025,Batthyány utca,47.446798,19.134228,F04025,,,,1
 F04026,Áchim András utca / Kossuth Lajos utca,47.447079,19.141971,F04026,,,,1
@@ -5197,7 +5209,7 @@ F04033,Madarassy László utca,47.440035,19.143881,F04033,,,,1
 F04034,Madarassy László utca,47.440440,19.143497,F04034,,,,1
 F04035,Mészáros Lőrinc utca / Vas Gereben utca,47.444029,19.143888,F04035,,,,1
 F04036,Szegfű utca,47.445960,19.146915,F04036,,,,1
-F04037,Pannónia út,47.447641,19.124934,F04037,,,,2
+F04037,Pannónia út,47.447662,19.124938,F04037,,,,1
 F04038,Irányi utca,47.447119,19.125225,F04038,,,,1
 F04039,"Kispest, Tulipán utca",47.445694,19.152669,F04039,,,,2
 F04041,Baross utca,47.432893,19.104221,F04041,,,,1
@@ -5213,7 +5225,7 @@ F04051,Torontál utca H,47.422549,19.105231,F04051,,,,1
 F04054,Nagysándor József utca,47.432570,19.103028,F04054,,,,1
 F04055,Nagysándor József utca,47.432588,19.102856,F04055,,,,1
 F04056,Tinódi utca,47.429087,19.106099,F04056,,,,1
-F04057,Tinódi utca,47.428556,19.106550,F04057,,,,1
+F04057,Tinódi utca,47.428576,19.106552,F04057,,,,1
 F04058,Klapka utca,47.427323,19.108006,F04058,,,,1
 F04059,Torontál utca,47.426604,19.108668,F04059,,,,1
 F04060,Pöltenberg utca,47.430714,19.108964,F04060,,,,2
@@ -5329,13 +5341,13 @@ F04179,József Attila utca,47.424176,19.083908,F04179,,,,1
 F04180,"Csepel, Horgásztanya",47.388092,19.103472,F04180,,,,1
 F04181,Csepel-Királyerdő,47.397886,19.106529,F04181,,,,2
 F04182,Károli Gáspár utca,47.429324,19.072367,F04182,,,,2
-F04185,II. Rákóczi Ferenc út,47.422921,19.067633,F04185,,,,1
+F04185,II. Rákóczi Ferenc út,47.422941,19.067632,F04185,,,,1
 F04186,Kolozsvári utca,47.426094,19.078171,F04186,,,,1
 F04187,Katona József utca,47.426381,19.078621,F04187,,,,1
 F04188,Komáromi utca,47.426335,19.082067,F04188,,,,1
 F04189,Komáromi utca,47.426218,19.083088,F04189,,,,1
-F04191,Széchenyi István utca,47.424018,19.069754,F04191,,,,1
-F04192,Széchenyi István utca,47.423604,19.069767,F04192,,,,1
+F04191,Görgey Artúr tér,47.424018,19.069754,F04191,,,,1
+F04192,Görgey Artúr tér,47.423604,19.069767,F04192,,,,1
 F04193,Szent István út,47.422102,19.068441,F04193,,,,1
 F04194,Görgey Artúr tér,47.422938,19.072669,F04194,,,,1
 F04195,Görgey Artúr tér,47.424044,19.071927,F04195,,,,1
@@ -5360,8 +5372,8 @@ F04213,Szebeni utca,47.420057,19.083561,F04213,,,,1
 F04214,Kassai utca,47.420156,19.083760,F04214,,,,1
 F04215,Kikötő utca,47.419678,19.086344,F04215,,,,1
 F04216,Kikötő utca,47.419741,19.086940,F04216,,,,1
-F04217,Szebeni utca,47.419263,19.091101,F04217,,,,1
-F04218,Késmárki utca,47.418777,19.091299,F04218,,,,1
+F04217,Lőcsei utca,47.419263,19.091101,F04217,,,,1
+F04218,Lőcsei utca,47.418777,19.091299,F04218,,,,1
 F04219,Strandfürdő,47.408007,19.099744,F04219,,,,1
 F04220,Strandfürdő,47.407486,19.100114,F04220,,,,1
 F04221,Csepel csónakház,47.404607,19.101131,F04221,,,,1
@@ -5383,7 +5395,7 @@ F04237,Posztó utca,47.410858,19.076175,F04237,,,,1
 F04238,Festő utca,47.413448,19.076971,F04238,,,,2
 F04239,Martinász utca,47.413295,19.077461,F04239,,,,1
 F04240,Varrógép utca,47.408176,19.082162,F04240,,,,1
-F04241,Varrógép utca,47.408762,19.081498,F04241,,,,1
+F04241,Varrógép utca,47.408051,19.082122,F04241,,,,1
 F04242,Tihanyi utca,47.404595,19.085512,F04242,,,,1
 F04243,Tihanyi utca,47.405297,19.085115,F04243,,,,1
 F04244,Fátra utca,47.401842,19.087192,F04244,,,,1
@@ -5445,8 +5457,8 @@ F04306,Papírgyár,47.434682,19.081542,F04306,,,,1
 F04307,Papírgyár,47.435006,19.083173,F04307,,,,1
 F04311,Corvin-csomópont,47.438831,19.071563,F04311,,,,1
 F04312,Corvin-csomópont,47.438013,19.071708,F04312,,,,1
-F04314,"Csepel, Kossuth Lajos utca",47.434658,19.070606,F04314,,,,1
-F04315,Ady Endre út (Kossuth Lajos utca),47.434217,19.070779,F04315,,,,1
+F04314,Kossuth Lajos utca / Ady Endre út,47.434658,19.070606,F04314,,,,1
+F04315,Kossuth Lajos utca / Ady Endre út,47.434217,19.070779,F04315,,,,1
 F04316,Védgát utca,47.435008,19.076399,F04316,,,,1
 F04317,Védgát utca,47.434882,19.076704,F04317,,,,1
 F04318,Szent Imre tér H,47.429802,19.067397,F04318,,,,1
@@ -5455,11 +5467,11 @@ F04321,Kiss János altábornagy utca,47.431861,19.071467,F04321,,,,1
 F04323,Szent Imre tér,47.431222,19.070327,F04323,,,,1
 F04324,Szent Imre tér,47.431231,19.070512,F04324,,,,1
 F04325,Kossuth Lajos utca,47.430359,19.071241,F04325,,,,1
-F04327,"Csepel, Szent Imre tér",47.430781,19.070512,F04327,,,,1
-F04328,"Csepel, Szent Imre tér",47.430790,19.070618,F04328,,,,2
-F04329,"Csepel, Szent Imre tér",47.430781,19.070737,F04329,,,,2
-F04330,"Csepel, Szent Imre tér",47.430781,19.070857,F04330,,,,2
-F04332,"Csepel, Szent Imre tér",47.430772,19.070976,F04332,,,,2
+F04327,"Csepel, Szent Imre tér",47.430766,19.070511,F04327,,,,1
+F04328,"Csepel, Szent Imre tér",47.430775,19.070617,F04328,,,,2
+F04329,"Csepel, Szent Imre tér",47.430775,19.070737,F04329,,,,2
+F04330,"Csepel, Szent Imre tér",47.430766,19.070856,F04330,,,,2
+F04332,"Csepel, Szent Imre tér",47.430757,19.070975,F04332,,,,2
 F04334,Iskola tér,47.411480,19.065522,F04334,,,,1
 F04335,Iskola tér,47.411328,19.065403,F04335,,,,1
 F04336,Csepel H,47.421572,19.065750,F04336,,,,1
@@ -5621,7 +5633,7 @@ F04505,Bányalég utca,47.390250,18.963093,F04505,,,,2
 F04506,Bányalég utca,47.390378,18.963761,F04506,,,,2
 F04507,"Nagytétény, ipartelep",47.388880,18.958553,F04507,,,,2
 F04508,"Nagytétény, ipartelep",47.388915,18.958155,F04508,,,,2
-F04509,Tenkes utca,47.397404,18.998781,F04509,,,,1
+F04509,Tenkes utca,47.397413,18.998776,F04509,,,,1
 F04510,Tenkes utca,47.396882,18.997974,F04510,,,,1
 F04511,Tátra utca,47.403881,19.001160,F04511,,,,1
 F04512,Tátra utca,47.403647,19.001531,F04512,,,,1
@@ -5651,7 +5663,7 @@ F04544,Soroksár vasútállomás,47.400947,19.121294,F04544,,,,2
 F04545,Soroksár vasútállomás,47.400818,19.121886,F04545,,,,2
 F04550,Zsellér dűlő,47.389450,19.120281,F04550,,,,1
 F04551,Zsellér dűlő,47.389252,19.120215,F04551,,,,1
-F04552,Polimer,47.382322,19.126866,F04552,,,,2
+F04552,Polimer,47.381772,19.127492,F04552,,,,1
 F04553,Polimer,47.382655,19.126761,F04553,,,,1
 F04554,"Vecsés út, sorompó",47.398702,19.125195,F04554,,,,1
 F04555,"Vecsés út, sorompó",47.398910,19.126538,F04555,,,,2
@@ -5696,11 +5708,11 @@ F04593,"Pécel, Kun József utca",47.477672,19.343121,F04593,,,,2
 F04594,Köztársaság tér,47.490362,19.336244,F04594,,,,2
 F04595,Köztársaság tér,47.490821,19.336234,F04595,,,,2
 F04596,Vecsés-nyugat,47.418016,19.254520,F04596,,,,1
-F04597,Vecsés-nyugat,47.418135,19.253460,F04597,,,,1
+F04597,Vecsés-nyugat,47.418154,19.253473,F04597,,,,1
 F04599,Liszt Ferenc Airport 2,47.432898,19.261431,F04599,,,,1
 F04600,Gyál felső vasútállomás,47.388861,19.206012,F04600,,,,2
 F04601,Gyál felső vasútállomás,47.388167,19.207427,F04601,,,,1
-F04602,Széchenyi utca / Ady Endre utca,47.389267,19.218990,F04602,,,,1
+F04602,Széchenyi utca / Ady Endre utca,47.389265,19.218989,F04602,,,,1
 F04603,"Gyál, Vecsési út",47.380893,19.230220,F04603,,,,1
 F04604,Kőrösi út,47.376028,19.223359,F04604,,,,1
 F04605,Ady Endre utca,47.385329,19.210332,F04605,,,,1
@@ -5713,8 +5725,8 @@ F04644,Árpád utca,47.479983,19.343200,F04644,,,,2
 F04645,Pécel vasútállomás,47.493467,19.339122,F04645,,,,1
 F04646,Pécel vasútállomás,47.493308,19.338019,F04646,,,,1
 F04647,Szent István utca,47.378622,19.226983,F04647,,,,1
-F04648,Rákóczi Ferenc utca,47.387643,19.215398,F04648,,,,2
-F04649,Bocskai István utca / Széchenyi utca,47.383451,19.228017,F04649,,,,1
+F04648,Rákóczi Ferenc utca,47.387660,19.215408,F04648,,,,2
+F04649,Bocskai István utca / Széchenyi utca,47.383449,19.228016,F04649,,,,1
 F04650,Somogyi Béla utca / Széchenyi utca,47.387165,19.222164,F04650,,,,1
 F04651,Bocskai István utca / Kőrösi út,47.377886,19.219989,F04651,,,,1
 F04652,Somogyi Béla utca / Kőrösi út,47.381717,19.214241,F04652,,,,1
@@ -5736,8 +5748,8 @@ F04702,"Solymár, községháza",47.592490,18.938223,F04702,,,,2
 F04703,"Solymár, PEMÜ",47.597218,18.927753,F04703,,,,2
 F04704,Dózsa György utca,47.592825,18.931495,F04704,,,,2
 F04705,Dózsa György utca,47.592708,18.932577,F04705,,,,2
-F04706,Templom tér,47.591438,18.929464,F04706,,,,1
-F04707,Templom tér,47.591465,18.929264,F04707,,,,1
+F04706,Templom tér,47.591394,18.929729,F04706,,,,1
+F04707,Templom tér,47.591441,18.929451,F04707,,,,1
 F04708,"Budakeszi, városháza",47.510655,18.929291,F04708,,,,2
 F04709,"Budakeszi, városháza",47.510682,18.929570,F04709,,,,2
 F04710,Ibolya utca,47.460391,18.926483,F04710,,,,1
@@ -5775,7 +5787,7 @@ F04743,Törökbálint vasútállomás,47.450688,18.904838,F04743,,,,1
 F04744,Törökbálint vasútállomás,47.450796,18.905037,F04744,,,,1
 F04745,Kerekdomb utca,47.448152,18.905216,F04745,,,,2
 F04746,Kerekdomb utca,47.448467,18.905322,F04746,,,,2
-F04747,Vasút utca,47.446619,18.909357,F04747,,,,2
+F04747,Vasút utca,47.447333,18.908919,F04747,,,,1
 F04748,Vasút utca,47.447033,18.909290,F04748,,,,2
 F04749,Deák Ferenc utca,47.441254,18.913322,F04749,,,,1
 F04750,Deák Ferenc utca,47.440752,18.913933,F04750,,,,2
@@ -5796,9 +5808,6 @@ F04770,"Diósd, Sashegyi út",47.407402,18.951592,F04770,,,,1
 F04771,Gyár utca,47.402476,18.943997,F04771,,,,1
 F04772,"Diósd, városháza",47.408767,18.948754,F04772,,,,2
 F04773,Csapágygyár,47.405310,18.942207,F04773,,,,2
-F04774,Külső Bécsi út 35.,47.590089,18.987446,F04774,,,,2
-F04775,Külső Bécsi út 35.,47.589887,18.987506,F04775,,,,2
-F04776,"Pilisborosjenő, Téglagyári tér",47.596452,18.978157,F04776,,,,2
 F04777,Rácski telep,47.554785,18.927102,F04777,,,,2
 F04778,Rácski telep,47.554669,18.927381,F04778,,,,2
 F04779,Erdészház,47.560689,18.917883,F04779,,,,2
@@ -5835,10 +5844,6 @@ F04813,Jókai Mór utca,47.444220,18.910915,F04813,,,,1
 F04814,Ady Endre utca,47.434951,18.906830,F04814,,,,1
 F04815,Zrínyi utca,47.435036,18.910674,F04815,,,,1
 F04816,Kölcsey Ferenc utca,47.407793,18.946173,F04816,,,,2
-F04817,"Solymár, téglagyári bekötőút",47.587816,18.992580,F04817,,,,2
-F04818,"Solymár, téglagyári bekötőút",47.587210,18.994156,F04818,,,,2
-F04819,Kövesbérci utca,47.592659,18.983494,F04819,,,,2
-F04820,Kövesbérci utca,47.591909,18.984538,F04820,,,,2
 F04821,BM iskola,47.550038,18.933759,F04821,,,,2
 F04822,BM iskola,47.549594,18.934181,F04822,,,,2
 F04823,Mészégető,47.558727,18.921366,F04823,,,,2
@@ -5855,7 +5860,7 @@ F04833,Tetra Pak,47.457451,18.903852,F04833,,,,2
 F04834,Tetra Pak,47.457828,18.903519,F04834,,,,2
 F04835,Budaörsi lakótelep,47.455692,18.940895,F04835,,,,1
 F04836,Budaörsi lakótelep,47.455638,18.940630,F04836,,,,1
-F04837,Lejtő utca,47.459613,18.930609,F04837,,,,1
+F04837,Lejtő utca,47.459635,18.930598,F04837,,,,1
 F04838,Lejtő utca,47.459416,18.931577,F04838,,,,1
 L008077,Pöttyös utca,47.468548,19.116946,L008077,2,,CSF01878,2
 L008082,Népliget,47.475441,19.098808,L008082,3,,CSF01282,2
@@ -5929,8 +5934,8 @@ LM2OVB,Örs vezér tere [B],47.503578,19.136870,LM2OVB,2,,CSF01749,2
 LM2OVC,Örs vezér tere [C],47.502637,19.136890,LM2OVC,2,,CSF01749,2
 LM2OVD,Örs vezér tere [D],47.503000,19.136104,LM2OVD,2,,CSF01749,1
 LM2OVE,Örs vezér tere [E],47.503664,19.135953,LM2OVE,2,,CSF01749,2
-LM2PF1,Puskás Ferenc Stadion (Hungária körút),47.500385,19.107153,LM2PF1,2,,CS004521,2
-LM2PF2,Puskás Ferenc Stadion (Ifjuság útja),47.500147,19.104824,LM2PF2,2,,CS004521,1
+LM2PF1,Puskás Ferenc Stadion (Hungária körút),47.500385,19.107153,LM2PF1,2,,CSF01324,2
+LM2PF2,Puskás Ferenc Stadion (Ifjuság útja),47.500147,19.104824,LM2PF2,2,,CSF01324,1
 LM2PU1,Pillangó utca,47.501297,19.119883,LM2PU1,2,,CSF01742,2
 LM2PU2,Pillangó utca (lift),47.501322,19.120232,LM2PU2,2,,CSF01742,1
 LM2SZ1,Széll Kálmán tér,47.506982,19.024828,LM2SZ1,2,,CSF02480,2
@@ -6135,17 +6140,17 @@ LMXKVD,Kálvin tér [D],47.489226,19.061814,LMXKVD,2,,CS056227,2
 LMXKVE,Kálvin tér [E],47.489559,19.061525,LMXKVE,2,,CS056227,2
 LMXKVF,Kálvin tér [F],47.489696,19.061327,LMXKVF,2,,CS056227,2
 LMXKVG,Kálvin tér [G],47.489897,19.061217,LMXKVG,2,,CS056227,2
-MERGED_008490,Határ út M,47.464567,19.126152,008490,1,stop,,1
 MERGED_050185,"Vecsés, Market Central Ferihegy",47.416816,19.251653,050185,1,stop,,1
 MERGED_064075,"Szigetszentmiklós, Szabadság utca",47.358296,19.031884,064075,1,stop,,1
 MERGED_F00066,Batthyány tér M+H,47.506613,19.038872,F00066,1,stop,,1
 MERGED_F00568,Bécsi út / Vörösvári út,47.548489,19.028994,F00568,1,stop,,1
 MERGED_F00678,Óbudai autóbuszgarázs,47.567996,19.026289,F00678,1,stop,,1
+MERGED_F00923,Fővám tér M,47.486952,19.057611,F00923,1,stop,,1
 MERGED_F01013,Astoria M,47.494145,19.060146,F01013,1,stop,,2
 MERGED_F01031,Nyugati pályaudvar M (Podmaniczky utca),47.509276,19.058597,F01031,1,stop,,1
-MERGED_F01324,Puskás Ferenc Stadion,47.500213,19.104767,F01324,1,stop,,1
-MERGED_F01325,Puskás Ferenc Stadion,47.500174,19.106381,F01325,1,stop,,1
-MERGED_F01401,Közvágóhíd H,47.467504,19.075899,F01401,1,stop,,2
-MERGED_F01443,Ősz utca,47.446197,19.100297,F01443,1,stop,,1
-MERGED_F02865,Nagy Lajos király útja / Czobor utca,47.522800,19.101992,F02865,1,stop,,1
+MERGED_F01401,Közvágóhíd H,47.467527,19.075886,F01401,1,stop,,2
+MERGED_F01921,Menyecske utca,47.460251,19.017379,F01921,1,stop,,2
+MERGED_F01923,Kérő utca,47.462034,19.016320,F01923,1,stop,,1
+MERGED_F02865,Nagy Lajos király útja / Czobor utca,47.522827,19.102034,F02865,1,stop,,2
+MERGED_F03146,"Újpalota, Szentmihályi út",47.541663,19.151091,F03146,1,stop,,1
 MERGED_F03810,Ferihegy vasútállomás,47.436741,19.222565,F03810,1,stop,,2
