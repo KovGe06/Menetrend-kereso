@@ -1,10 +1,15 @@
 package Search;
 
-import Model.*;
-
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.PriorityQueue;
+
+import Model.Connection;
+import Model.Stop;
 
 public abstract class Search {
     protected List<Connection> connections;
@@ -47,11 +52,11 @@ public abstract class Search {
     protected void availableConnections(Map<Stop, List<Connection>> connectionsMap,LocalDateTime startDateTime) {
         LocalDate localDate=startDateTime.toLocalDate();
         int startTime=startDateTime.toLocalTime().getHour()*3600+startDateTime.toLocalTime().getMinute()*60+startDateTime.toLocalTime().getSecond();
-        String currentDate=String.valueOf(localDate.getYear())+localDate.getMonthValue()+localDate.getDayOfMonth();
+        String currentDate=String.format("%04d%02d%02d", localDate.getYear(), localDate.getMonthValue(), localDate.getDayOfMonth());
         localDate=localDate.minusDays(1);
-        String lastDay=String.valueOf(localDate.getYear())+localDate.getMonthValue()+String.valueOf(localDate.getDayOfMonth());
+        String lastDay=String.format("%04d%02d%02d", localDate.getYear(), localDate.getMonthValue(), localDate.getDayOfMonth());
         localDate=localDate.plusDays(2);
-        String nextDay=String.valueOf(localDate.getYear())+localDate.getMonthValue()+String.valueOf(localDate.getDayOfMonth());
+        String nextDay=String.format("%04d%02d%02d", localDate.getYear(), localDate.getMonthValue(), localDate.getDayOfMonth());
         for (Connection connection : connections) {
             List<String> calendarDates = connection.getCalendarDates();
             if (calendarDates != null) {

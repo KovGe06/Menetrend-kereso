@@ -1,13 +1,22 @@
-import static org.junit.jupiter.api.Assertions.*;
+import java.awt.Color;
+import java.time.LocalDateTime;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import Model.*;
-import Search.*;
 
-import java.awt.*;
-import java.time.LocalDateTime;
-import java.util.*;
-import java.util.List;
+import Model.Connection;
+import Model.Route;
+import Model.Stop;
+import Search.BackwardSearch;
+import Search.ForwardSearch;
+import Search.Search;
 
 class TestSearch {
 

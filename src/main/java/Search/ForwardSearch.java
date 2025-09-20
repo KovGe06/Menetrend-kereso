@@ -1,8 +1,14 @@
 package Search;
 
-import Model.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Map;
+import java.util.PriorityQueue;
 
-import java.util.*;
+import Model.Connection;
+import Model.Stop;
 
 public class ForwardSearch extends Search {
 
